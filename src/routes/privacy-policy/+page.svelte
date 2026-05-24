@@ -157,11 +157,11 @@
 <p>
 	Im Rahmen unserer Verarbeitung von personenbezogenen Daten kommt es vor, dass diese an andere
 	Stellen, Unternehmen, rechtlich selbstständige Organisationseinheiten oder Personen übermittelt
-	beziehungsweise ihnen gegenüber offengelegt werden. Zu den Empfängern dieser Daten können z. B.
-	mit IT-Aufgaben beauftragte Dienstleister gehören oder Anbieter von Diensten und Inhalten, die in
-	eine Website eingebunden sind. In solchen Fällen beachten wir die gesetzlichen Vorgaben und
-	schließen insbesondere entsprechende Verträge bzw. Vereinbarungen, die dem Schutz Ihrer Daten
-	dienen, mit den Empfängern Ihrer Daten ab.
+	beziehungsweise ihnen gegenüber offengelegt werden. Zu den Empfängern dieser Daten können
+	z.&nbsp;B. mit IT-Aufgaben beauftragte Dienstleister gehören oder Anbieter von Diensten und
+	Inhalten, die in eine Website eingebunden sind. In solchen Fällen beachten wir die gesetzlichen
+	Vorgaben und schließen insbesondere entsprechende Verträge bzw. Vereinbarungen, die dem Schutz
+	Ihrer Daten dienen, mit den Empfängern Ihrer Daten ab.
 </p>
 
 <h2 id="m12">Allgemeine Informationen zur Datenspeicherung und Löschung</h2>
@@ -200,16 +200,16 @@
 		257 Abs. 1 Nr. 1 i.V.m. Abs. 4 HGB).
 	</li>
 	<li>
-		8 Jahre - Buchungsbelege, wie z. B. Rechnungen und Kostenbelege (§ 147 Abs. 1 Nr. 4 und 4a
+		8 Jahre - Buchungsbelege, wie z.&nbsp;B. Rechnungen und Kostenbelege (§ 147 Abs. 1 Nr. 4 und 4a
 		i.V.m. Abs. 3 Satz 1 AO sowie § 257 Abs. 1 Nr. 4 i.V.m. Abs. 4 HGB).
 	</li>
 	<li>
 		6 Jahre - Übrige Geschäftsunterlagen: empfangene Handels- oder Geschäftsbriefe, Wiedergaben der
 		abgesandten Handels- oder Geschäftsbriefe, sonstige Unterlagen, soweit sie für die Besteuerung
-		von Bedeutung sind, z. B. Stundenlohnzettel, Betriebsabrechnungsbögen, Kalkulationsunterlagen,
-		Preisauszeichnungen, aber auch Lohnabrechnungsunterlagen, soweit sie nicht bereits
-		Buchungsbelege sind und Kassenstreifen (§ 147 Abs. 1 Nr. 2, 3, 5 i.V.m. Abs. 3 AO, § 257 Abs. 1
-		Nr. 2 u. 3 i.V.m. Abs. 4 HGB).
+		von Bedeutung sind, z.&nbsp;B. Stundenlohnzettel, Betriebsabrechnungsbögen,
+		Kalkulationsunterlagen, Preisauszeichnungen, aber auch Lohnabrechnungsunterlagen, soweit sie
+		nicht bereits Buchungsbelege sind und Kassenstreifen (§ 147 Abs. 1 Nr. 2, 3, 5 i.V.m. Abs. 3 AO,
+		§ 257 Abs. 1 Nr. 2 u. 3 i.V.m. Abs. 4 HGB).
 	</li>
 	<li>
 		3 Jahre - Daten, die erforderlich sind, um potenzielle Gewährleistungs- und
@@ -292,11 +292,11 @@
 		<strong>Verarbeitete Datenarten:</strong> Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade,
 		Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten
 		und Funktionen); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern,
-		beteiligte Personen). Protokolldaten (z. B. Logfiles betreffend Logins oder den Abruf von Daten oder
-		Zugriffszeiten.).
+		beteiligte Personen). Protokolldaten (z.&nbsp;B. Logfiles betreffend Logins oder den Abruf von Daten
+		oder Zugriffszeiten.).
 	</li>
 	<li>
-		<strong>Betroffene Personen:</strong> Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten).
+		<strong>Betroffene Personen:</strong> Nutzer (z.&nbsp;B. Webseitenbesucher, Nutzer von Onlinediensten).
 	</li>
 	<li>
 		<strong>Zwecke der Verarbeitung und berechtigte Interessen:</strong> Bereitstellung unseres Onlineangebotes
@@ -329,9 +329,9 @@
 		übertragene Datenmengen, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das
 		Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite) und im Regelfall IP-Adressen
 		und der anfragende Provider gehören. Die Serverlogfiles können zum einen zu Sicherheitszwecken
-		eingesetzt werden, z. B. um eine Überlastung der Server zu vermeiden (insbesondere im Fall von
-		missbräuchlichen Angriffen, sogenannten DDoS-Attacken), und zum anderen, um die Auslastung der
-		Server und ihre Stabilität sicherzustellen;
+		eingesetzt werden, z.&nbsp;B. um eine Überlastung der Server zu vermeiden (insbesondere im Fall
+		von missbräuchlichen Angriffen, sogenannten DDoS-Attacken), und zum anderen, um die Auslastung
+		der Server und ihre Stabilität sicherzustellen;
 		<span class=""
 			><strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 		</span><strong>Löschung von Daten:</strong> Logfile-Informationen werden für die Dauer von maximal
@@ -361,30 +361,30 @@
 	erläutert sind.
 </p>
 <p>
-	<strong>Speicherdauer: </strong>Im Hinblick auf die Speicherdauer werden die folgenden Arten von
-	Cookies unterschieden:
+	<strong>Speicherdauer:&nbsp;</strong>Im Hinblick auf die Speicherdauer werden die folgenden Arten
+	von Cookies unterschieden:
 </p>
 <ul>
 	<li>
 		<strong>Temporäre Cookies (auch: Session- oder Sitzungscookies):</strong> Temporäre Cookies werden
-		spätestens gelöscht, nachdem ein Nutzer ein Onlineangebot verlassen und sein Endgerät (z. B. Browser
-		oder mobile Applikation) geschlossen hat.
+		spätestens gelöscht, nachdem ein Nutzer ein Onlineangebot verlassen und sein Endgerät (z.&nbsp;B.
+		Browser oder mobile Applikation) geschlossen hat.
 	</li>
 	<li>
 		<strong>Permanente Cookies:</strong> Permanente Cookies bleiben auch nach dem Schließen des Endgeräts
 		gespeichert. So können beispielsweise der Log-in-Status gespeichert und bevorzugte Inhalte direkt
 		angezeigt werden, wenn der Nutzer eine Website erneut besucht. Ebenso können die mithilfe von Cookies
 		erhobenen Nutzerdaten zur Reichweitenmessung Verwendung finden. Sofern wir Nutzern keine expliziten
-		Angaben zur Art und Speicherdauer von Cookies mitteilen (z. B. im Rahmen der Einholung der Einwilligung),
+		Angaben zur Art und Speicherdauer von Cookies mitteilen (z.&nbsp;B. im Rahmen der Einholung der Einwilligung),
 		sollten sie davon ausgehen, dass diese permanent sind und die Speicherdauer bis zu zwei Jahre betragen
 		kann.
 	</li>
 </ul>
 <p>
-	<strong>Allgemeine Hinweise zum Widerruf und Widerspruch (Opt-out): </strong>Nutzer können die von
-	ihnen abgegebenen Einwilligungen jederzeit widerrufen und zudem einen Widerspruch gegen die
-	Verarbeitung entsprechend den gesetzlichen Vorgaben, auch mittels der Privatsphäre-Einstellungen
-	ihres Browsers, erklären.
+	<strong>Allgemeine Hinweise zum Widerruf und Widerspruch (Opt-out):&nbsp;</strong>Nutzer können
+	die von ihnen abgegebenen Einwilligungen jederzeit widerrufen und zudem einen Widerspruch gegen
+	die Verarbeitung entsprechend den gesetzlichen Vorgaben, auch mittels der
+	Privatsphäre-Einstellungen ihres Browsers, erklären.
 </p>
 <ul class="m-elements">
 	<li>
@@ -392,7 +392,7 @@
 		Zeitangaben, Identifikationsnummern, beteiligte Personen).
 	</li>
 	<li>
-		<strong>Betroffene Personen:</strong> Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten).
+		<strong>Betroffene Personen:</strong> Nutzer (z.&nbsp;B. Webseitenbesucher, Nutzer von Onlinediensten).
 	</li>
 	<li class="">
 		<strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO). Einwilligung
@@ -420,7 +420,7 @@
 		spezifischen Angaben zu den Anbietern von Einwilligungs-Management-Diensten vorliegen, gelten
 		folgende allgemeine Hinweise: Die Dauer der Speicherung der Einwilligung beträgt bis zu zwei
 		Jahre. Dabei wird ein pseudonymer Nutzer-Identifikator erstellt, der zusammen mit dem Zeitpunkt
-		der Einwilligung, den Angaben zum Umfang der Einwilligung (z. B. betreffende Kategorien von
+		der Einwilligung, den Angaben zum Umfang der Einwilligung (z.&nbsp;B. betreffende Kategorien von
 		Cookies und/oder Diensteanbieter) sowie Informationen über den Browser, das System und das
 		verwendete Endgerät gespeichert wird;
 		<span class=""
@@ -444,21 +444,21 @@
 	erforderlich oder es besteht eine gesetzliche Verpflichtung hierzu.
 </p>
 <p>
-	Die Nutzer können über Vorgänge, die für deren Nutzerkonto relevant sind, wie z. B. technische
-	Änderungen, per E-Mail informiert werden.
+	Die Nutzer können über Vorgänge, die für deren Nutzerkonto relevant sind, wie z.&nbsp;B.
+	technische Änderungen, per E-Mail informiert werden.
 </p>
 <ul class="m-elements">
 	<li>
-		<strong>Verarbeitete Datenarten:</strong> Bestandsdaten (z. B. der vollständige Name, Wohnadresse,
-		Kontaktinformationen, Kundennummer, etc.); Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern);
-		Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen,
-		wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung); Nutzungsdaten (z. B. Seitenaufrufe
-		und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme,
-		Interaktionen mit Inhalten und Funktionen). Protokolldaten (z. B. Logfiles betreffend Logins oder
-		den Abruf von Daten oder Zugriffszeiten.).
+		<strong>Verarbeitete Datenarten:</strong> Bestandsdaten (z.&nbsp;B. der vollständige Name, Wohnadresse,
+		Kontaktinformationen, Kundennummer, etc.); Kontaktdaten (z.&nbsp;B. Post- und E-Mail-Adressen oder
+		Telefonnummern); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie
+		betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung); Nutzungsdaten
+		(z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen
+		und Betriebssysteme, Interaktionen mit Inhalten und Funktionen). Protokolldaten (z.&nbsp;B. Logfiles
+		betreffend Logins oder den Abruf von Daten oder Zugriffszeiten.).
 	</li>
 	<li>
-		<strong>Betroffene Personen:</strong> Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten).
+		<strong>Betroffene Personen:</strong> Nutzer (z.&nbsp;B. Webseitenbesucher, Nutzer von Onlinediensten).
 	</li>
 	<li>
 		<strong>Zwecke der Verarbeitung und berechtigte Interessen:</strong> Erbringung vertraglicher Leistungen
@@ -497,8 +497,8 @@
 		<strong>Zwei-Faktor-Authentifizierung: </strong>Die Zwei-Faktor-Authentifizierung bietet eine
 		zusätzliche Sicherheitsebene für Ihr Benutzerkonto und stellt sicher, dass nur Sie auf Ihr Konto
 		zugreifen können, auch, wenn jemand anderes Ihr Passwort kennt. Zu diesem Zweck müssen Sie
-		zusätzlich zu Ihrem Passwort eine weitere Authentifizierungsmaßnahme durchführen (z. B. einen an
-		ein mobiles Gerät gesandten Code eingeben). Wir werden Sie über das von uns eingesetzte
+		zusätzlich zu Ihrem Passwort eine weitere Authentifizierungsmaßnahme durchführen (z.&nbsp;B.
+		einen an ein mobiles Gerät gesandten Code eingeben). Wir werden Sie über das von uns eingesetzte
 		Verfahren informieren;
 		<span class=""
 			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
@@ -528,7 +528,7 @@
 <p>
 	Als "Single-Sign-On" oder "Single-Sign-On-Anmeldung bzw. "-Authentifizierung" werden Verfahren
 	bezeichnet, die es Nutzern erlauben, sich mit Hilfe eines Nutzerkontos bei einem Anbieter von
-	Single-Sign-On-Verfahren (z. B. einem sozialen Netzwerk), auch bei unserem Onlineangebot,
+	Single-Sign-On-Verfahren (z.&nbsp;B. einem sozialen Netzwerk), auch bei unserem Onlineangebot,
 	anzumelden. Voraussetzung der Single-Sign-On-Authentifizierung ist, dass die Nutzer bei dem
 	jeweiligen Single-Sign-On-Anbieter registriert sind und die erforderlichen Zugangsdaten in dem
 	dafür vorgesehenen Onlineformular eingeben, bzw. schon bei dem Single-Sign-On-Anbieter angemeldet
@@ -550,8 +550,8 @@
 <p>
 	Die Nutzer werden gebeten, zu beachten, dass deren bei uns gespeicherte Angaben automatisch mit
 	ihrem Nutzerkonto beim Single-Sign-On-Anbieter abgeglichen werden können, dies jedoch nicht immer
-	möglich ist oder tatsächlich erfolgt. Ändern sich z. B. die E-Mail-Adressen der Nutzer, müssen sie
-	diese manuell in ihrem Nutzerkonto bei uns ändern.
+	möglich ist oder tatsächlich erfolgt. Ändern sich z.&nbsp;B. die E-Mail-Adressen der Nutzer,
+	müssen sie diese manuell in ihrem Nutzerkonto bei uns ändern.
 </p>
 <p>
 	Die Single-Sign-On-Anmeldung können wir, sofern mit den Nutzern vereinbart, im Rahmen der oder vor
@@ -567,14 +567,15 @@
 </p>
 <ul class="m-elements">
 	<li>
-		<strong>Verarbeitete Datenarten:</strong> Bestandsdaten (z. B. der vollständige Name, Wohnadresse,
-		Kontaktinformationen, Kundennummer, etc.); Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern);
-		Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz,
-		verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen). Meta-, Kommunikations-
-		und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen).
+		<strong>Verarbeitete Datenarten:</strong> Bestandsdaten (z.&nbsp;B. der vollständige Name, Wohnadresse,
+		Kontaktinformationen, Kundennummer, etc.); Kontaktdaten (z.&nbsp;B. Post- und E-Mail-Adressen oder
+		Telefonnummern); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität
+		und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen).
+		Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern,
+		beteiligte Personen).
 	</li>
 	<li>
-		<strong>Betroffene Personen:</strong> Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten).
+		<strong>Betroffene Personen:</strong> Nutzer (z.&nbsp;B. Webseitenbesucher, Nutzer von Onlinediensten).
 	</li>
 	<li>
 		<strong>Zwecke der Verarbeitung und berechtigte Interessen:</strong> Erbringung vertraglicher Leistungen
@@ -612,22 +613,23 @@
 </ul>
 <h2 id="m182">Kontakt- und Anfrageverwaltung</h2>
 <p>
-	Bei der Kontaktaufnahme mit uns (z. B. per Post, Kontaktformular, E-Mail, Telefon oder via soziale
-	Medien) sowie im Rahmen bestehender Nutzer- und Geschäftsbeziehungen werden die Angaben der
-	anfragenden Personen verarbeitet, soweit dies zur Beantwortung der Kontaktanfragen und etwaiger
-	angefragter Maßnahmen erforderlich ist.
+	Bei der Kontaktaufnahme mit uns (z.&nbsp;B. per Post, Kontaktformular, E-Mail, Telefon oder via
+	soziale Medien) sowie im Rahmen bestehender Nutzer- und Geschäftsbeziehungen werden die Angaben
+	der anfragenden Personen verarbeitet, soweit dies zur Beantwortung der Kontaktanfragen und
+	etwaiger angefragter Maßnahmen erforderlich ist.
 </p>
 <ul class="m-elements">
 	<li>
-		<strong>Verarbeitete Datenarten:</strong> Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern);
-		Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen,
-		wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung). Meta-, Kommunikations- und Verfahrensdaten
-		(z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen).
+		<strong>Verarbeitete Datenarten:</strong> Kontaktdaten (z.&nbsp;B. Post- und E-Mail-Adressen oder
+		Telefonnummern); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie
+		betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung). Meta-,
+		Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte
+		Personen).
 	</li>
 	<li><strong>Betroffene Personen:</strong> Kommunikationspartner.</li>
 	<li>
 		<strong>Zwecke der Verarbeitung und berechtigte Interessen:</strong> Kommunikation; Organisations-
-		und Verwaltungsverfahren; Feedback (z. B. Sammeln von Feedback via Online-Formular). Bereitstellung
+		und Verwaltungsverfahren; Feedback (z.&nbsp;B. Sammeln von Feedback via Online-Formular). Bereitstellung
 		unseres Onlineangebotes und Nutzerfreundlichkeit.
 	</li>
 	<li>
@@ -659,7 +661,7 @@
 	Wir bitten Sie, sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir
 	passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten
 	Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen
-	eine Mitwirkungshandlung Ihrerseits (z. B. Einwilligung) oder eine sonstige individuelle
+	eine Mitwirkungshandlung Ihrerseits (z.&nbsp;B. Einwilligung) oder eine sonstige individuelle
 	Benachrichtigung erforderlich wird.
 </p>
 <p>
