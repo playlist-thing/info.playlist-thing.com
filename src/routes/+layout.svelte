@@ -2,6 +2,10 @@
 	let { children } = $props();
 </script>
 
+<svelte:head>
+	<title>playlist-thing</title>
+</svelte:head>
+
 <div class="page">
 	<main class="content">
 		{@render children()}

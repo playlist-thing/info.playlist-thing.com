@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Datenschutzerklärung</title>
+</svelte:head>
+
 <h1>Datenschutzerklärung</h1>
 <h2 id="m4158">Präambel</h2>
 <p>

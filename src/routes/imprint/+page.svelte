@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Impressum</title>
+</svelte:head>
+
 <h1>Impressum</h1>
 <h2 id="m46">Diensteanbieter</h2>
 <p>Joachim Schmidt<br />Liebfrauenstr. 54<br />64289 Darmstadt</p>
