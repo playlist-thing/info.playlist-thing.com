@@ -1,43 +1,42 @@
 <svelte:head>
-	<title>Impressum</title>
+	<title>Imprint</title>
 </svelte:head>
 
-<h1>Impressum</h1>
-<h2 id="m46">Diensteanbieter</h2>
+<h1>Imprint</h1>
+<h2 id="m46">Service Provider</h2>
 <p>Joachim Schmidt<br />Liebfrauenstr. 54<br />64289 Darmstadt</p>
 
-<h2 id="m56">Kontaktmöglichkeiten</h2>
-<p>E-Mail-Adresse: contact@playlist-thing.com</p>
+<h2 id="m56">Contact Information</h2>
+<p>Email: contact@playlist-thing.com</p>
 
-<h2 id="m154">Journalistisch-redaktionelle Angebote</h2>
-<p>Inhaltlich verantwortlich: Joachim Schmidt (Adresse wie oben)</p>
+<h2 id="m154">Editorial Responsibility</h2>
+<p>Editorially responsible: Joachim Schmidt (Address as above)</p>
 
-<h2 id="m65">Haftungs- und Schutzrechtshinweise</h2>
+<h2 id="m65">Liability Disclaimer and Copyright Notices</h2>
 <p>
-	Haftungsausschluss: Die Inhalte dieses Onlineangebotes wurden sorgfältig und nach unserem
-	aktuellen Kenntnisstand erstellt, dienen jedoch nur der Information und entfalten keine rechtlich
-	bindende Wirkung, sofern es sich nicht um gesetzlich verpflichtende Informationen (z.&nbsp;B. das
-	Impressum, die Datenschutzerklärung, AGB oder verpflichtende Belehrungen von Verbrauchern)
-	handelt. Wir behalten uns vor, die Inhalte vollständig oder teilweise zu ändern oder zu löschen,
-	soweit vertragliche Verpflichtungen unberührt bleiben. Alle Angebote sind freibleibend und
-	unverbindlich.
+	Liability Disclaimer: The content of this online service has been created with the utmost care and
+	according to our current knowledge. However, it serves only informational purposes and does not
+	constitute legally binding information, unless it involves legally mandatory information (e.g.,
+	this imprint, privacy policy, terms of service, or mandatory consumer disclosures). We reserve the
+	right to modify or delete the content in whole or in part at any time, provided that contractual
+	obligations remain unaffected. All offers are non-binding and subject to change.
 </p>
 <p>
-	Links auf fremde Webseiten: Die Inhalte fremder Webseiten, auf die wir direkt oder indirekt
-	verweisen, liegen außerhalb unseres Verantwortungsbereiches und wir machen sie uns nicht zu Eigen.
-	Für alle Inhalte und Nachteile, die aus der Nutzung der in den verlinkten Webseiten aufrufbaren
-	Informationen entstehen, übernehmen wir keine Verantwortung.
+	Links to Third-Party Websites: The content of third-party websites linked to directly or
+	indirectly lies outside our area of responsibility, and we do not adopt them as our own. We assume
+	no liability for any content or damages arising from the use of information found on linked
+	websites.
 </p>
 <p>
-	Urheberrechte und Markenrechte: Alle auf dieser Website dargestellten Inhalte, wie Texte,
-	Fotografien, Grafiken, Marken und Warenzeichen sind durch die jeweiligen Schutzrechte
-	(Urheberrechte, Markenrechte) geschützt. Die Verwendung, Vervielfältigung usw. unterliegen unseren
-	Rechten oder den Rechten der jeweiligen Urheber bzw. Rechteinhaber.
+	Copyright and Trademark Notices: All content displayed on this website, including texts,
+	photographs, graphics, logos, and brand names, is protected by applicable copyright and trademark
+	laws. Any use, reproduction, etc. is subject to our rights or the rights of the respective
+	creators and rights holders.
 </p>
 <p>
-	Hinweise auf Rechtsverstöße: Sollten Sie innerhalb unseres Internetauftritts Rechtsverstöße
-	bemerken, bitten wir Sie uns auf diese hinzuweisen. Wir werden rechtswidrige Inhalte und Links
-	nach Kenntnisnahme unverzüglich entfernen.
+	Notices of Legal Violations: If you become aware of any legal violations within our online
+	presence, please notify us. We will remove any illegal content and links immediately upon becoming
+	aware of them.
 </p>
 
 <p class="seal">

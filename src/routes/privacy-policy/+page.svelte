@@ -1,677 +1,634 @@
 <svelte:head>
-	<title>Datenschutzerklärung</title>
+	<title>Privacy Policy</title>
 </svelte:head>
 
-<h1>Datenschutzerklärung</h1>
-<h2 id="m4158">Präambel</h2>
+<h1>Privacy Policy</h1>
+<h2 id="m4158">Preamble</h2>
 <p>
-	Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer
-	personenbezogenen Daten (nachfolgend auch kurz als "Daten" bezeichnet) wir zu welchen Zwecken und
-	in welchem Umfang im Rahmen der Bereitstellung unserer Applikation verarbeiten.
+	With the following privacy policy, we would like to inform you about the types of your personal
+	data (hereinafter also referred to as "data") that we process, for what purposes, and to what
+	extent in connection with the provision of our application.
 </p>
-<p>Die verwendeten Begriffe sind nicht geschlechtsspezifisch.</p>
+<p>The terms used are not gender-specific.</p>
 
-<p>Stand: 26. April 2026</p>
-<h2>Inhaltsübersicht</h2>
+<p>Last updated: April 26, 2026</p>
+<h2>Table of Contents</h2>
 <ul class="index">
-	<li><a class="index-link" href="#m4158">Präambel</a></li>
-	<li><a class="index-link" href="#m3">Verantwortlicher</a></li>
-	<li><a class="index-link" href="#mOverview">Übersicht der Verarbeitungen</a></li>
-	<li><a class="index-link" href="#m2427">Maßgebliche Rechtsgrundlagen</a></li>
-	<li><a class="index-link" href="#m27">Sicherheitsmaßnahmen</a></li>
-	<li><a class="index-link" href="#m25">Übermittlung von personenbezogenen Daten</a></li>
+	<li><a class="index-link" href="#m4158">Preamble</a></li>
+	<li><a class="index-link" href="#m3">Data Controller</a></li>
+	<li><a class="index-link" href="#mOverview">Overview of Processing Activities</a></li>
+	<li><a class="index-link" href="#m2427">Applicable Legal Bases</a></li>
+	<li><a class="index-link" href="#m27">Security Measures</a></li>
+	<li><a class="index-link" href="#m25">Transmission of Personal Data</a></li>
 	<li>
-		<a class="index-link" href="#m12">Allgemeine Informationen zur Datenspeicherung und Löschung</a>
+		<a class="index-link" href="#m12">General Information on Data Storage and Deletion</a>
 	</li>
-	<li><a class="index-link" href="#m10">Rechte der betroffenen Personen</a></li>
-	<li><a class="index-link" href="#m225">Bereitstellung des Onlineangebots und Webhosting</a></li>
-	<li><a class="index-link" href="#m134">Einsatz von Cookies</a></li>
-	<li><a class="index-link" href="#m367">Registrierung, Anmeldung und Nutzerkonto</a></li>
-	<li><a class="index-link" href="#m451">Single-Sign-On-Anmeldung</a></li>
-	<li><a class="index-link" href="#m182">Kontakt- und Anfrageverwaltung</a></li>
-	<li><a class="index-link" href="#m15">Änderung und Aktualisierung</a></li>
+	<li><a class="index-link" href="#m10">Rights of Data Subjects</a></li>
+	<li><a class="index-link" href="#m225">Provision of the Online Service and Web Hosting</a></li>
+	<li><a class="index-link" href="#m134">Use of Cookies</a></li>
+	<li><a class="index-link" href="#m367">Registration, Login, and User Account</a></li>
+	<li><a class="index-link" href="#m451">Single Sign-On Authentication</a></li>
+	<li><a class="index-link" href="#m182">Contact and Inquiry Management</a></li>
+	<li><a class="index-link" href="#m15">Changes and Updates</a></li>
 </ul>
-<h2 id="m3">Verantwortlicher</h2>
+<h2 id="m3">Data Controller</h2>
 <p>Joachim Schmidt<br />Liebfrauenstr. 54<br />64289 Darmstadt</p>
-<p>E-Mail-Adresse: privacy@playlist-thing.com</p>
+<p>Email: privacy@playlist-thing.com</p>
 
-<h2 id="mOverview">Übersicht der Verarbeitungen</h2>
+<h2 id="mOverview">Overview of Processing Activities</h2>
 <p>
-	Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer
-	Verarbeitung zusammen und verweist auf die betroffenen Personen.
+	The following overview summarizes the types of data processed and the purposes of their
+	processing, and refers to the data subjects concerned.
 </p>
-<h3>Arten der verarbeiteten Daten</h3>
+<h3>Types of Data Processed</h3>
 <ul>
-	<li>Bestandsdaten.</li>
-	<li>Beschäftigtendaten.</li>
-	<li>Kontaktdaten.</li>
-	<li>Inhaltsdaten.</li>
-	<li>Nutzungsdaten.</li>
-	<li>Meta-, Kommunikations- und Verfahrensdaten.</li>
-	<li>Protokolldaten.</li>
+	<li>Inventory data.</li>
+	<li>Employee data.</li>
+	<li>Contact data.</li>
+	<li>Content data.</li>
+	<li>Usage data.</li>
+	<li>Meta-, communication, and procedural data.</li>
+	<li>Log data.</li>
 </ul>
-<h3>Kategorien betroffener Personen</h3>
+<h3>Categories of Data Subjects</h3>
 <ul>
-	<li>Beschäftigte.</li>
-	<li>Kommunikationspartner.</li>
-	<li>Nutzer.</li>
-	<li>Dritte Personen.</li>
-	<li>Hinweisgeber.</li>
+	<li>Employees.</li>
+	<li>Communication partners.</li>
+	<li>Users.</li>
+	<li>Third parties.</li>
+	<li>Whistleblowers.</li>
 </ul>
-<h3>Zwecke der Verarbeitung</h3>
+<h3>Purposes of Processing</h3>
 <ul>
-	<li>Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten.</li>
-	<li>Kommunikation.</li>
-	<li>Sicherheitsmaßnahmen.</li>
-	<li>Organisations- und Verwaltungsverfahren.</li>
+	<li>Provision of contractual services and fulfilment of contractual obligations.</li>
+	<li>Communication.</li>
+	<li>Security measures.</li>
+	<li>Organisational and administrative procedures.</li>
 	<li>Feedback.</li>
-	<li>Anmeldeverfahren.</li>
-	<li>Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.</li>
-	<li>Informationstechnische Infrastruktur.</li>
-	<li>Hinweisgeberschutz.</li>
+	<li>Registration procedures.</li>
+	<li>Provision of our online service and user-friendliness.</li>
+	<li>Information technology infrastructure.</li>
+	<li>Whistleblower protection.</li>
 </ul>
-<h2 id="m2427">Maßgebliche Rechtsgrundlagen</h2>
+<h2 id="m2427">Applicable Legal Bases</h2>
 <p>
-	<strong>Maßgebliche Rechtsgrundlagen nach der DSGVO: </strong>Im Folgenden erhalten Sie eine
-	Übersicht der Rechtsgrundlagen der DSGVO, auf deren Basis wir personenbezogene Daten verarbeiten.
-	Bitte nehmen Sie zur Kenntnis, dass neben den Regelungen der DSGVO nationale Datenschutzvorgaben
-	in Ihrem bzw. unserem Wohn- oder Sitzland gelten können. Sollten ferner im Einzelfall speziellere
-	Rechtsgrundlagen maßgeblich sein, teilen wir Ihnen diese in der Datenschutzerklärung mit.
+	<strong>Applicable legal bases under the GDPR: </strong>The following provides an overview of the
+	legal bases of the GDPR on which we process personal data. Please note that in addition to the
+	provisions of the GDPR, national data protection regulations may apply in your or our country of
+	residence or establishment. Should more specific legal bases be applicable in individual cases, we
+	will inform you of these in the privacy policy.
 </p>
 <ul>
 	<li>
-		<strong>Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO)</strong> - Die betroffene Person hat ihre
-		Einwilligung in die Verarbeitung der sie betreffenden personenbezogenen Daten für einen spezifischen
-		Zweck oder mehrere bestimmte Zwecke gegeben.
+		<strong>Consent (Art. 6(1)(a) GDPR)</strong> - The data subject has given consent to the processing
+		of their personal data for one or more specific purposes.
 	</li>
 	<li>
-		<strong
-			>Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO)</strong
-		> - Die Verarbeitung ist für die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person
-		ist, oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, die auf Anfrage der betroffenen
-		Person erfolgen.
+		<strong>Performance of a contract and pre-contractual inquiries (Art. 6(1)(b) GDPR)</strong> - Processing
+		is necessary for the performance of a contract to which the data subject is a party, or in order to
+		take steps at the request of the data subject prior to entering into a contract.
 	</li>
 	<li>
-		<strong>Rechtliche Verpflichtung (Art. 6 Abs. 1 S. 1 lit. c) DSGVO)</strong> - Die Verarbeitung ist
-		zur Erfüllung einer rechtlichen Verpflichtung erforderlich, der der Verantwortliche unterliegt.
+		<strong>Legal obligation (Art. 6(1)(c) GDPR)</strong> - Processing is necessary for compliance with
+		a legal obligation to which the controller is subject.
 	</li>
 	<li>
-		<strong>Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO)</strong> - die Verarbeitung ist
-		zur Wahrung der berechtigten Interessen des Verantwortlichen oder eines Dritten notwendig, vorausgesetzt,
-		dass die Interessen, Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener
-		Daten verlangen, nicht überwiegen.
+		<strong>Legitimate interests (Art. 6(1)(f) GDPR)</strong> - Processing is necessary for the purposes
+		of the legitimate interests pursued by the controller or a third party, except where such interests
+		are overridden by the interests or fundamental rights and freedoms of the data subject which require
+		protection of personal data.
 	</li>
 </ul>
 <p>
-	<strong>Nationale Datenschutzregelungen in Deutschland: </strong>Zusätzlich zu den
-	Datenschutzregelungen der DSGVO gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu
-	gehört insbesondere das Gesetz zum Schutz vor Missbrauch personenbezogener Daten bei der
-	Datenverarbeitung (Bundesdatenschutzgesetz – BDSG). Das BDSG enthält insbesondere
-	Spezialregelungen zum Recht auf Auskunft, zum Recht auf Löschung, zum Widerspruchsrecht, zur
-	Verarbeitung besonderer Kategorien personenbezogener Daten, zur Verarbeitung für andere Zwecke und
-	zur Übermittlung sowie automatisierten Entscheidungsfindung im Einzelfall einschließlich
-	Profiling. Ferner können Landesdatenschutzgesetze der einzelnen Bundesländer zur Anwendung
-	gelangen.
+	<strong>National data protection regulations in Germany: </strong>In addition to the data
+	protection regulations of the GDPR, national data protection laws apply in Germany. These include
+	in particular the Act on Protection against Misuse of Personal Data in Data Processing (Federal
+	Data Protection Act – BDSG). The BDSG contains specific provisions on the right to access, the
+	right to erasure, the right to object, the processing of special categories of personal data,
+	processing for other purposes, transmission, and automated individual decision-making including
+	profiling. Furthermore, the data protection laws of the individual German federal states may
+	apply.
 </p>
 <p>
-	<strong>Hinweis auf Geltung DSGVO und Schweizer DSG: </strong>Diese Datenschutzhinweise dienen
-	sowohl der Informationserteilung nach dem Schweizer DSG als auch nach der
-	Datenschutzgrundverordnung (DSGVO). Aus diesem Grund bitten wir Sie zu beachten, dass aufgrund der
-	breiteren räumlichen Anwendung und Verständlichkeit die Begriffe der DSGVO verwendet werden.
-	Insbesondere statt der im Schweizer DSG verwendeten Begriffe „Bearbeitung" von „Personendaten",
-	"überwiegendes Interesse" und "besonders schützenswerte Personendaten" werden die in der DSGVO
-	verwendeten Begriffe „Verarbeitung" von „personenbezogenen Daten" sowie "berechtigtes Interesse"
-	und "besondere Kategorien von Daten" verwendet. Die gesetzliche Bedeutung der Begriffe wird jedoch
-	im Rahmen der Geltung des Schweizer DSG weiterhin nach dem Schweizer DSG bestimmt.
+	<strong>Note on applicability of GDPR and Swiss FADP: </strong>These data protection notices serve
+	both to provide information under the Swiss Federal Act on Data Protection (FADP) and under the
+	General Data Protection Regulation (GDPR). For this reason, please note that the terminology of
+	the GDPR is used for broader applicability and comprehensibility. In particular, instead of the
+	terms used in the Swiss FADP such as "processing" of "personal data", "overriding interest", and
+	"particularly sensitive personal data", the GDPR terms "processing" of "personal data",
+	"legitimate interest", and "special categories of data" are used. However, the legal meaning of
+	these terms will continue to be determined in accordance with the Swiss FADP where it applies.
 </p>
 
-<h2 id="m27">Sicherheitsmaßnahmen</h2>
+<h2 id="m27">Security Measures</h2>
 <p>
-	Wir treffen nach Maßgabe der gesetzlichen Vorgaben unter Berücksichtigung des Stands der Technik,
-	der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung
-	sowie der unterschiedlichen Eintrittswahrscheinlichkeiten und des Ausmaßes der Bedrohung der
-	Rechte und Freiheiten natürlicher Personen geeignete technische und organisatorische Maßnahmen, um
-	ein dem Risiko angemessenes Schutzniveau zu gewährleisten.
+	We implement appropriate technical and organisational measures in accordance with legal
+	requirements, taking into account the state of the art, implementation costs, and the nature,
+	scope, circumstances, and purposes of the processing, as well as the varying likelihood and
+	severity of risks to the rights and freedoms of natural persons, in order to ensure a level of
+	protection appropriate to the risk.
 </p>
 <p>
-	Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und
-	Verfügbarkeit von Daten durch Kontrolle des physischen und elektronischen Zugangs zu den Daten als
-	auch des sie betreffenden Zugriffs, der Eingabe, der Weitergabe, der Sicherung der Verfügbarkeit
-	und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von
-	Betroffenenrechten, die Löschung von Daten und Reaktionen auf die Gefährdung der Daten
-	gewährleisten. Ferner berücksichtigen wir den Schutz personenbezogener Daten bereits bei der
-	Entwicklung bzw. Auswahl von Hardware, Software sowie Verfahren entsprechend dem Prinzip des
-	Datenschutzes, durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.
+	These measures include in particular securing the confidentiality, integrity, and availability of
+	data by controlling physical and electronic access to the data as well as access, input,
+	disclosure, ensuring availability, and separation thereof. We have also established procedures to
+	ensure the exercise of data subject rights, the erasure of data, and responses to data threats.
+	Furthermore, we take the protection of personal data into account during the development or
+	selection of hardware, software, and processes in accordance with the principle of privacy by
+	design and by default.
 </p>
 <p>
-	Sicherung von Online-Verbindungen durch TLS-/SSL-Verschlüsselungstechnologie (HTTPS): Um die Daten
-	der Nutzer, die über unsere Online-Dienste übertragen werden, vor unerlaubten Zugriffen zu
-	schützen, setzen wir auf die TLS-/SSL-Verschlüsselungstechnologie. Secure Sockets Layer (SSL) und
-	Transport Layer Security (TLS) sind die Eckpfeiler der sicheren Datenübertragung im Internet.
-	Diese Technologien verschlüsseln die Informationen, die zwischen der Website oder App und dem
-	Browser des Nutzers (oder zwischen zwei Servern) übertragen werden, wodurch die Daten vor
-	unbefugtem Zugriff geschützt sind. TLS, als die weiterentwickelte und sicherere Version von SSL,
-	gewährleistet, dass alle Datenübertragungen den höchsten Sicherheitsstandards entsprechen. Wenn
-	eine Website durch ein SSL-/TLS-Zertifikat gesichert ist, wird dies durch die Anzeige von HTTPS in
-	der URL signalisiert. Dies dient als ein Indikator für die Nutzer, dass ihre Daten sicher und
-	verschlüsselt übertragen werden.
+	Securing online connections through TLS/SSL encryption technology (HTTPS): To protect the data of
+	users transmitted via our online services from unauthorised access, we use TLS/SSL encryption
+	technology. Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are the cornerstones of
+	secure data transmission on the internet. These technologies encrypt the information transmitted
+	between the website or app and the user's browser (or between two servers), protecting the data
+	from unauthorised access. TLS, as the more advanced and secure version of SSL, ensures that all
+	data transmissions meet the highest security standards. When a website is secured by an SSL/TLS
+	certificate, this is indicated by the display of HTTPS in the URL, serving as an indicator to
+	users that their data is being transmitted securely and in encrypted form.
 </p>
 
-<h2 id="m25">Übermittlung von personenbezogenen Daten</h2>
+<h2 id="m25">Transmission of Personal Data</h2>
 <p>
-	Im Rahmen unserer Verarbeitung von personenbezogenen Daten kommt es vor, dass diese an andere
-	Stellen, Unternehmen, rechtlich selbstständige Organisationseinheiten oder Personen übermittelt
-	beziehungsweise ihnen gegenüber offengelegt werden. Zu den Empfängern dieser Daten können
-	z.&nbsp;B. mit IT-Aufgaben beauftragte Dienstleister gehören oder Anbieter von Diensten und
-	Inhalten, die in eine Website eingebunden sind. In solchen Fällen beachten wir die gesetzlichen
-	Vorgaben und schließen insbesondere entsprechende Verträge bzw. Vereinbarungen, die dem Schutz
-	Ihrer Daten dienen, mit den Empfängern Ihrer Daten ab.
+	In the course of our processing of personal data, it may be transmitted to or disclosed to other
+	entities, companies, legally independent organisational units, or persons. Recipients of such data
+	may include, for example, service providers commissioned with IT tasks, or providers of services
+	and content integrated into a website. In such cases, we comply with legal requirements and in
+	particular conclude appropriate contracts or agreements that serve to protect your data with the
+	recipients of your data.
 </p>
 
-<h2 id="m12">Allgemeine Informationen zur Datenspeicherung und Löschung</h2>
+<h2 id="m12">General Information on Data Storage and Deletion</h2>
 <p>
-	Wir löschen personenbezogene Daten, die wir verarbeiten, gemäß den gesetzlichen Bestimmungen,
-	sobald die zugrundeliegenden Einwilligungen widerrufen werden oder keine weiteren rechtlichen
-	Grundlagen für die Verarbeitung bestehen. Dies betrifft Fälle, in denen der ursprüngliche
-	Verarbeitungszweck entfällt oder die Daten nicht mehr benötigt werden. Ausnahmen von dieser
-	Regelung bestehen, wenn gesetzliche Pflichten oder besondere Interessen eine längere Aufbewahrung
-	oder Archivierung der Daten erfordern.
+	We delete personal data that we process in accordance with statutory provisions as soon as the
+	underlying consents are revoked or no further legal bases for processing exist. This applies to
+	cases where the original processing purpose no longer applies or where the data is no longer
+	needed. Exceptions to this rule apply where statutory obligations or special interests require
+	longer retention or archiving of the data.
 </p>
 <p>
-	Insbesondere müssen Daten, die aus handels- oder steuerrechtlichen Gründen aufbewahrt werden
-	müssen oder deren Speicherung notwendig ist zur Rechtsverfolgung oder zum Schutz der Rechte
-	anderer natürlicher oder juristischer Personen, entsprechend archiviert werden.
+	In particular, data that must be retained for commercial or tax law reasons, or whose storage is
+	necessary for legal prosecution or the protection of the rights of other natural or legal persons,
+	must be archived accordingly.
 </p>
 <p>
-	Unsere Datenschutzhinweise enthalten zusätzliche Informationen zur Aufbewahrung und Löschung von
-	Daten, die speziell für bestimmte Verarbeitungsprozesse gelten.
+	Our privacy notices contain additional information on the retention and deletion of data that
+	applies specifically to certain processing activities.
 </p>
 <p>
-	Bei mehreren Angaben zur Aufbewahrungsdauer oder Löschungsfristen eines Datums, ist stets die
-	längste Frist maßgeblich. Daten, die nicht mehr für den ursprünglich vorgesehenen Zweck, sondern
-	aufgrund gesetzlicher Vorgaben oder anderer Gründe aufbewahrt werden, verarbeiten wir
-	ausschließlich zu den Gründen, die ihre Aufbewahrung rechtfertigen.
+	Where multiple retention periods or deletion deadlines are specified for a piece of data, the
+	longest period always applies. Data that is no longer retained for its originally intended purpose
+	but is kept due to statutory requirements or other reasons will be processed exclusively for the
+	reasons justifying its retention.
 </p>
 <p>
-	Aufbewahrung und Löschung von Daten: Die folgenden allgemeinen Fristen gelten für die Aufbewahrung
-	und Archivierung nach deutschem Recht:
+	Retention and deletion of data: The following general retention and archiving periods apply under
+	German law:
 </p>
 <ul>
 	<li>
-		10 Jahre - Aufbewahrungsfrist für Bücher und Aufzeichnungen, Jahresabschlüsse, Inventare,
-		Lageberichte, Eröffnungsbilanz sowie die zu ihrem Verständnis erforderlichen Arbeitsanweisungen
-		und sonstigen Organisationsunterlagen (§ 147 Abs. 1 Nr. 1 i.V.m. Abs. 3 AO, § 14b Abs. 1 UStG, §
-		257 Abs. 1 Nr. 1 i.V.m. Abs. 4 HGB).
+		10 years – Retention period for books and records, annual financial statements, inventories,
+		management reports, opening balance sheets, as well as the work instructions and other
+		organisational documents required for their understanding (§ 147(1) No. 1 in conjunction with
+		(3) AO, § 14b(1) UStG, § 257(1) No. 1 in conjunction with (4) HGB).
 	</li>
 	<li>
-		8 Jahre - Buchungsbelege, wie z.&nbsp;B. Rechnungen und Kostenbelege (§ 147 Abs. 1 Nr. 4 und 4a
-		i.V.m. Abs. 3 Satz 1 AO sowie § 257 Abs. 1 Nr. 4 i.V.m. Abs. 4 HGB).
+		8 years – Accounting vouchers, such as invoices and expense receipts (§ 147(1) Nos. 4 and 4a in
+		conjunction with (3) sentence 1 AO and § 257(1) No. 4 in conjunction with (4) HGB).
 	</li>
 	<li>
-		6 Jahre - Übrige Geschäftsunterlagen: empfangene Handels- oder Geschäftsbriefe, Wiedergaben der
-		abgesandten Handels- oder Geschäftsbriefe, sonstige Unterlagen, soweit sie für die Besteuerung
-		von Bedeutung sind, z.&nbsp;B. Stundenlohnzettel, Betriebsabrechnungsbögen,
-		Kalkulationsunterlagen, Preisauszeichnungen, aber auch Lohnabrechnungsunterlagen, soweit sie
-		nicht bereits Buchungsbelege sind und Kassenstreifen (§ 147 Abs. 1 Nr. 2, 3, 5 i.V.m. Abs. 3 AO,
-		§ 257 Abs. 1 Nr. 2 u. 3 i.V.m. Abs. 4 HGB).
+		6 years – Other business documents: received commercial or business letters, copies of sent
+		commercial or business letters, other documents relevant for taxation, e.g. hourly wage slips,
+		cost accounting sheets, calculation documents, price tags, as well as payroll documents not
+		already classified as accounting vouchers and cash register receipts (§ 147(1) Nos. 2, 3, 5 in
+		conjunction with (3) AO, § 257(1) Nos. 2 and 3 in conjunction with (4) HGB).
 	</li>
 	<li>
-		3 Jahre - Daten, die erforderlich sind, um potenzielle Gewährleistungs- und
-		Schadensersatzansprüche oder ähnliche vertragliche Ansprüche und Rechte zu berücksichtigen sowie
-		damit verbundene Anfragen zu bearbeiten, basierend auf früheren Geschäftserfahrungen und
-		üblichen Branchenpraktiken, werden für die Dauer der regulären gesetzlichen Verjährungsfrist von
-		drei Jahren gespeichert (§§ 195, 199 BGB).
+		3 years – Data required to account for potential warranty and damages claims or similar
+		contractual claims and rights, and to handle related inquiries, based on past business
+		experience and common industry practice, is stored for the duration of the standard statutory
+		limitation period of three years (§§ 195, 199 BGB).
 	</li>
 </ul>
 <p>
-	Fristbeginn mit Ablauf des Jahres: Beginnt eine Frist nicht ausdrücklich zu einem bestimmten Datum
-	und beträgt sie mindestens ein Jahr, so startet sie automatisch am Ende des Kalenderjahres, in dem
-	das fristauslösende Ereignis eingetreten ist. Im Fall laufender Vertragsverhältnisse, in deren
-	Rahmen Daten gespeichert werden, ist das fristauslösende Ereignis der Zeitpunkt des Wirksamwerdens
-	der Kündigung oder sonstige Beendigung des Rechtsverhältnisses.
+	Period commencing at end of year: Where a period does not expressly begin on a specific date and
+	is at least one year in length, it automatically starts at the end of the calendar year in which
+	the triggering event occurred. In the case of ongoing contractual relationships in which data is
+	stored, the triggering event is the point in time when the termination or other ending of the
+	legal relationship takes effect.
 </p>
 
-<h2 id="m10">Rechte der betroffenen Personen</h2>
+<h2 id="m10">Rights of Data Subjects</h2>
 <p>
-	Rechte der betroffenen Personen aus der DSGVO: Ihnen stehen als Betroffene nach der DSGVO
-	verschiedene Rechte zu, die sich insbesondere aus Art. 15 bis 21 DSGVO ergeben:
+	Rights of data subjects under the GDPR: As a data subject, you have various rights under the GDPR,
+	arising in particular from Articles 15 to 21 GDPR:
 </p>
 <ul>
 	<li>
 		<strong
-			>Widerspruchsrecht: Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation
-			ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die
-			aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen; dies gilt auch
-			für ein auf diese Bestimmungen gestütztes Profiling. Werden die Sie betreffenden
-			personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, haben Sie das Recht,
-			jederzeit Widerspruch gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten zum
-			Zwecke derartiger Werbung einzulegen; dies gilt auch für das Profiling, soweit es mit solcher
-			Direktwerbung in Verbindung steht.</strong
+			>Right to object: You have the right, on grounds relating to your particular situation, to
+			object at any time to the processing of personal data concerning you which is carried out on
+			the basis of Art. 6(1)(e) or (f) GDPR; this also applies to profiling based on those
+			provisions. Where personal data concerning you is processed for direct marketing purposes, you
+			have the right to object at any time to the processing of personal data concerning you for
+			such marketing; this also applies to profiling insofar as it is related to such direct
+			marketing.</strong
 		>
 	</li>
 	<li>
-		<strong>Widerrufsrecht bei Einwilligungen:</strong> Sie haben das Recht, erteilte Einwilligungen jederzeit
-		zu widerrufen.
+		<strong>Right to withdraw consent:</strong> You have the right to withdraw consent at any time.
 	</li>
 	<li>
-		<strong>Auskunftsrecht:</strong> Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende
-		Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie
-		der Daten entsprechend den gesetzlichen Vorgaben.
+		<strong>Right of access:</strong> You have the right to request confirmation as to whether the data
+		in question is being processed and to receive information about such data as well as further details
+		and a copy of the data in accordance with statutory provisions.
 	</li>
 	<li>
-		<strong>Recht auf Berichtigung:</strong> Sie haben entsprechend den gesetzlichen Vorgaben das Recht,
-		die Vervollständigung der Sie betreffenden Daten oder die Berichtigung der Sie betreffenden unrichtigen
-		Daten zu verlangen.
+		<strong>Right to rectification:</strong> You have the right, in accordance with statutory provisions,
+		to request the completion of data concerning you or the rectification of inaccurate data concerning
+		you.
 	</li>
 	<li>
-		<strong>Recht auf Löschung und Einschränkung der Verarbeitung:</strong> Sie haben nach Maßgabe der
-		gesetzlichen Vorgaben das Recht, zu verlangen, dass Sie betreffende Daten unverzüglich gelöscht werden,
-		bzw. alternativ nach Maßgabe der gesetzlichen Vorgaben eine Einschränkung der Verarbeitung der Daten
-		zu verlangen.
+		<strong>Right to erasure and restriction of processing:</strong> You have the right, in accordance
+		with statutory provisions, to request that data concerning you be erased without undue delay, or alternatively
+		to request a restriction on the processing of the data in accordance with statutory provisions.
 	</li>
 	<li>
-		<strong>Recht auf Datenübertragbarkeit:</strong> Sie haben das Recht, Sie betreffende Daten, die Sie
-		uns bereitgestellt haben, nach Maßgabe der gesetzlichen Vorgaben in einem strukturierten, gängigen
-		und maschinenlesbaren Format zu erhalten oder deren Übermittlung an einen anderen Verantwortlichen
-		zu fordern.
+		<strong>Right to data portability:</strong> You have the right to receive data concerning you that
+		you have provided to us in a structured, commonly used, and machine-readable format, or to request
+		that it be transmitted to another controller, in accordance with statutory provisions.
 	</li>
 	<li>
-		<strong>Beschwerde bei Aufsichtsbehörde:</strong> Sie haben unbeschadet eines anderweitigen verwaltungsrechtlichen
-		oder gerichtlichen Rechtsbehelfs das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere
-		in dem Mitgliedstaat ihres gewöhnlichen Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen
-		Verstoßes, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen
-		Daten gegen die Vorgaben der DSGVO verstößt.
+		<strong>Right to lodge a complaint with a supervisory authority:</strong> Without prejudice to any
+		other administrative or judicial remedy, you have the right to lodge a complaint with a supervisory
+		authority, in particular in the Member State of your habitual residence, place of work, or place of
+		the alleged infringement, if you consider that the processing of personal data relating to you infringes
+		the provisions of the GDPR.
 	</li>
 </ul>
 
-<h2 id="m225">Bereitstellung des Onlineangebots und Webhosting</h2>
+<h2 id="m225">Provision of the Online Service and Web Hosting</h2>
 <p>
-	Wir verarbeiten die Daten der Nutzer, um ihnen unsere Online-Dienste zur Verfügung stellen zu
-	können. Zu diesem Zweck verarbeiten wir die IP-Adresse des Nutzers, die notwendig ist, um die
-	Inhalte und Funktionen unserer Online-Dienste an den Browser oder das Endgerät der Nutzer zu
-	übermitteln.
+	We process users' data in order to provide them with our online services. For this purpose, we
+	process the user's IP address, which is necessary to transmit the content and functions of our
+	online services to the user's browser or device.
 </p>
 <ul class="m-elements">
 	<li>
-		<strong>Verarbeitete Datenarten:</strong> Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade,
-		Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten
-		und Funktionen); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern,
-		beteiligte Personen). Protokolldaten (z.&nbsp;B. Logfiles betreffend Logins oder den Abruf von Daten
-		oder Zugriffszeiten.).
+		<strong>Types of data processed:</strong> Usage data (e.g. pages visited and time spent, click paths,
+		intensity and frequency of use, types of devices and operating systems used, interactions with content
+		and features); meta-, communication, and procedural data (e.g. IP addresses, timestamps, identification
+		numbers, persons involved). Log data (e.g. log files relating to logins or retrieval of data or access
+		times).
 	</li>
 	<li>
-		<strong>Betroffene Personen:</strong> Nutzer (z.&nbsp;B. Webseitenbesucher, Nutzer von Onlinediensten).
+		<strong>Data subjects:</strong> Users (e.g. website visitors, users of online services).
 	</li>
 	<li>
-		<strong>Zwecke der Verarbeitung und berechtigte Interessen:</strong> Bereitstellung unseres Onlineangebotes
-		und Nutzerfreundlichkeit; Informationstechnische Infrastruktur (Betrieb und Bereitstellung von Informationssystemen
-		und technischen Geräten (Computer, Server etc.)). Sicherheitsmaßnahmen.
+		<strong>Purposes of processing and legitimate interests:</strong> Provision of our online service
+		and user-friendliness; information technology infrastructure (operation and provision of information
+		systems and technical devices (computers, servers, etc.)). Security measures.
 	</li>
 	<li>
-		<strong>Aufbewahrung und Löschung:</strong> Löschung entsprechend Angaben im Abschnitt "Allgemeine
-		Informationen zur Datenspeicherung und Löschung".
+		<strong>Retention and deletion:</strong> Deletion in accordance with the information in the section
+		"General Information on Data Storage and Deletion".
 	</li>
 	<li class="">
-		<strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+		<strong>Legal bases:</strong> Legitimate interests (Art. 6(1)(f) GDPR).
 	</li>
 </ul>
-<p><strong>Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:</strong></p>
+<p><strong>Further information on processing activities, procedures, and services:</strong></p>
 <ul class="m-elements">
 	<li>
-		<strong>Bereitstellung Onlineangebot auf gemietetem Speicherplatz: </strong>Für die
-		Bereitstellung unseres Onlineangebotes nutzen wir Speicherplatz, Rechenkapazität und Software,
-		die wir von einem entsprechenden Serveranbieter (auch "Webhoster" genannt) mieten oder
-		anderweitig beziehen;
-		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).</span
-		>
+		<strong>Provision of online service on rented storage space: </strong>For the provision of our
+		online service, we use storage space, computing capacity, and software that we rent or otherwise
+		obtain from a corresponding server provider (also referred to as a "web host");
+		<span class=""><strong>Legal bases:</strong> Legitimate interests (Art. 6(1)(f) GDPR).</span>
 	</li>
 	<li>
-		<strong>Erhebung von Zugriffsdaten und Logfiles: </strong>Der Zugriff auf unser Onlineangebot
-		wird in Form von sogenannten "Server-Logfiles" protokolliert. Zu den Serverlogfiles können die
-		Adresse und der Name der abgerufenen Webseiten und Dateien, Datum und Uhrzeit des Abrufs,
-		übertragene Datenmengen, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das
-		Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite) und im Regelfall IP-Adressen
-		und der anfragende Provider gehören. Die Serverlogfiles können zum einen zu Sicherheitszwecken
-		eingesetzt werden, z.&nbsp;B. um eine Überlastung der Server zu vermeiden (insbesondere im Fall
-		von missbräuchlichen Angriffen, sogenannten DDoS-Attacken), und zum anderen, um die Auslastung
-		der Server und ihre Stabilität sicherzustellen;
+		<strong>Collection of access data and log files: </strong>Access to our online service is logged
+		in the form of so-called "server log files". Server log files may include the address and name
+		of the web pages and files accessed, the date and time of access, the volume of data
+		transferred, notification of successful retrieval, browser type and version, the user's
+		operating system, referrer URL (the previously visited page), and as a rule IP addresses and the
+		requesting provider. Server log files may be used for security purposes, e.g. to avoid server
+		overload (particularly in the event of abusive attacks, so-called DDoS attacks), and to ensure
+		server load and stability;
 		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
-		</span><strong>Löschung von Daten:</strong> Logfile-Informationen werden für die Dauer von maximal
-		30 Tagen gespeichert und danach gelöscht oder anonymisiert. Daten, deren weitere Aufbewahrung zu Beweiszwecken
-		erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
+			><strong>Legal bases:</strong> Legitimate interests (Art. 6(1)(f) GDPR).
+		</span><strong>Deletion of data:</strong> Log file information is stored for a maximum period of 30
+		days and then deleted or anonymised. Data whose further retention is required for evidentiary purposes
+		is exempt from deletion until the final resolution of the respective incident.
 	</li>
 </ul>
-<h2 id="m134">Einsatz von Cookies</h2>
+<h2 id="m134">Use of Cookies</h2>
 <p>
-	Unter dem Begriff „Cookies" werden Funktionen, die Informationen auf Endgeräten der Nutzer
-	speichern und aus ihnen auslesen, verstanden. Cookies können ferner in Bezug auf unterschiedliche
-	Anliegen Einsatz finden, etwa zu Zwecken der Funktionsfähigkeit, der Sicherheit und des Komforts
-	von Onlineangeboten sowie der Erstellung von Analysen der Besucherströme. Wir verwenden Cookies
-	gemäß den gesetzlichen Vorschriften. Dazu holen wir, wenn erforderlich, vorab die Zustimmung der
-	Nutzer ein. Ist eine Zustimmung nicht notwendig, setzen wir auf unsere berechtigten Interessen.
-	Dies gilt, wenn das Speichern und Auslesen von Informationen unerlässlich ist, um ausdrücklich
-	angeforderte Inhalte und Funktionen bereitstellen zu können. Dazu zählen etwa die Speicherung von
-	Einstellungen sowie die Sicherstellung der Funktionalität und Sicherheit unseres Onlineangebots.
-	Die Einwilligung kann jederzeit widerrufen werden. Wir informieren klar über deren Umfang und
-	welche Cookies genutzt werden.
+	The term "cookies" refers to functions that store and retrieve information on users' devices.
+	Cookies may also be used for various purposes, for example for functionality, security, and
+	convenience of online services, as well as for the creation of analyses of visitor flows. We use
+	cookies in accordance with statutory provisions. Where required, we obtain users' prior consent.
+	Where consent is not necessary, we rely on our legitimate interests. This applies where the
+	storage and retrieval of information is essential to provide explicitly requested content and
+	features, such as saving settings and ensuring the functionality and security of our online
+	service. Consent can be withdrawn at any time. We provide clear information about the scope of
+	consent and the cookies used.
 </p>
 <p>
-	<strong>Hinweise zu datenschutzrechtlichen Rechtsgrundlagen: </strong>Ob wir personenbezogene
-	Daten mithilfe von Cookies verarbeiten, hängt von einer Einwilligung ab. Liegt eine Einwilligung
-	vor, dient sie als Rechtsgrundlage. Ohne Einwilligung stützen wir uns auf unsere berechtigten
-	Interessen, die vorstehend in diesem Abschnitt und im Kontext der jeweiligen Dienste und Verfahren
-	erläutert sind.
+	<strong>Notes on legal bases under data protection law: </strong>Whether we process personal data
+	using cookies depends on consent. Where consent is given, it serves as the legal basis. Without
+	consent, we rely on our legitimate interests as outlined above in this section and in the context
+	of the respective services and procedures.
 </p>
 <p>
-	<strong>Speicherdauer:&nbsp;</strong>Im Hinblick auf die Speicherdauer werden die folgenden Arten
-	von Cookies unterschieden:
+	<strong>Storage duration:&nbsp;</strong>The following types of cookies are distinguished with
+	regard to storage duration:
 </p>
 <ul>
 	<li>
-		<strong>Temporäre Cookies (auch: Session- oder Sitzungscookies):</strong> Temporäre Cookies werden
-		spätestens gelöscht, nachdem ein Nutzer ein Onlineangebot verlassen und sein Endgerät (z.&nbsp;B.
-		Browser oder mobile Applikation) geschlossen hat.
+		<strong>Temporary cookies (also: session cookies):</strong> Temporary cookies are deleted at the latest
+		after a user has left an online service and closed their device (e.g. browser or mobile application).
 	</li>
 	<li>
-		<strong>Permanente Cookies:</strong> Permanente Cookies bleiben auch nach dem Schließen des Endgeräts
-		gespeichert. So können beispielsweise der Log-in-Status gespeichert und bevorzugte Inhalte direkt
-		angezeigt werden, wenn der Nutzer eine Website erneut besucht. Ebenso können die mithilfe von Cookies
-		erhobenen Nutzerdaten zur Reichweitenmessung Verwendung finden. Sofern wir Nutzern keine expliziten
-		Angaben zur Art und Speicherdauer von Cookies mitteilen (z.&nbsp;B. im Rahmen der Einholung der Einwilligung),
-		sollten sie davon ausgehen, dass diese permanent sind und die Speicherdauer bis zu zwei Jahre betragen
-		kann.
+		<strong>Permanent cookies:</strong> Permanent cookies remain stored even after the device is closed.
+		For example, the login status can be saved and preferred content displayed directly when the user
+		revisits a website. Likewise, user data collected via cookies may be used for audience measurement.
+		Unless we provide users with explicit information about the type and storage duration of cookies (e.g.
+		when obtaining consent), users should assume that they are permanent and that the storage period may
+		be up to two years.
 	</li>
 </ul>
 <p>
-	<strong>Allgemeine Hinweise zum Widerruf und Widerspruch (Opt-out):&nbsp;</strong>Nutzer können
-	die von ihnen abgegebenen Einwilligungen jederzeit widerrufen und zudem einen Widerspruch gegen
-	die Verarbeitung entsprechend den gesetzlichen Vorgaben, auch mittels der
-	Privatsphäre-Einstellungen ihres Browsers, erklären.
+	<strong>General information on withdrawal and objection (opt-out):&nbsp;</strong>Users may
+	withdraw their given consents at any time and also lodge an objection to processing in accordance
+	with statutory provisions, including via the privacy settings of their browser.
 </p>
 <ul class="m-elements">
 	<li>
-		<strong>Verarbeitete Datenarten:</strong> Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen,
-		Zeitangaben, Identifikationsnummern, beteiligte Personen).
+		<strong>Types of data processed:</strong> Meta-, communication, and procedural data (e.g. IP addresses,
+		timestamps, identification numbers, persons involved).
 	</li>
 	<li>
-		<strong>Betroffene Personen:</strong> Nutzer (z.&nbsp;B. Webseitenbesucher, Nutzer von Onlinediensten).
+		<strong>Data subjects:</strong> Users (e.g. website visitors, users of online services).
 	</li>
 	<li class="">
-		<strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO). Einwilligung
-		(Art. 6 Abs. 1 S. 1 lit. a) DSGVO).
+		<strong>Legal bases:</strong> Legitimate interests (Art. 6(1)(f) GDPR). Consent (Art. 6(1)(a) GDPR).
 	</li>
 </ul>
-<p><strong>Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:</strong></p>
+<p><strong>Further information on processing activities, procedures, and services:</strong></p>
 <ul class="m-elements">
 	<li>
-		<strong>Verarbeitung von Cookie-Daten auf Grundlage einer Einwilligung: </strong>Wir setzen eine
-		Einwilligungs-Management-Lösung ein, bei der die Einwilligung der Nutzer zur Verwendung von
-		Cookies oder zu den im Rahmen der Einwilligungs-Management-Lösung genannten Verfahren und
-		Anbietern eingeholt wird. Dieses Verfahren dient der Einholung, Protokollierung, Verwaltung und
-		dem Widerruf von Einwilligungen, insbesondere bezogen auf den Einsatz von Cookies und
-		vergleichbaren Technologien, die zur Speicherung, zum Auslesen und zur Verarbeitung von
-		Informationen auf den Endgeräten der Nutzer eingesetzt werden. Im Rahmen dieses Verfahrens
-		werden die Einwilligungen der Nutzer für die Nutzung von Cookies und die damit verbundenen
-		Verarbeitungen von Informationen, einschließlich der im Einwilligungs-Management-Verfahren
-		genannten spezifischen Verarbeitungen und Anbieter, eingeholt. Die Nutzer haben zudem die
-		Möglichkeit, ihre Einwilligungen zu verwalten und zu widerrufen. Die Einwilligungserklärungen
-		werden gespeichert, um eine erneute Abfrage zu vermeiden und den Nachweis der Einwilligung gemäß
-		der gesetzlichen Anforderungen führen zu können. Die Speicherung erfolgt serverseitig und/oder
-		in einem Cookie (sogenanntes Opt-In-Cookie) oder mittels vergleichbarer Technologien, um die
-		Einwilligung einem spezifischen Nutzer oder dessen Gerät zuordnen zu können. Sofern keine
-		spezifischen Angaben zu den Anbietern von Einwilligungs-Management-Diensten vorliegen, gelten
-		folgende allgemeine Hinweise: Die Dauer der Speicherung der Einwilligung beträgt bis zu zwei
-		Jahre. Dabei wird ein pseudonymer Nutzer-Identifikator erstellt, der zusammen mit dem Zeitpunkt
-		der Einwilligung, den Angaben zum Umfang der Einwilligung (z.&nbsp;B. betreffende Kategorien von
-		Cookies und/oder Diensteanbieter) sowie Informationen über den Browser, das System und das
-		verwendete Endgerät gespeichert wird;
-		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO).</span
-		>
+		<strong>Processing of cookie data on the basis of consent: </strong>We use a consent management
+		solution through which users' consent to the use of cookies or to the procedures and providers
+		named in the consent management solution is obtained. This procedure serves to obtain, log,
+		manage, and withdraw consents, in particular with regard to the use of cookies and comparable
+		technologies used to store, read, and process information on users' devices. Within this
+		framework, users' consents are obtained for the use of cookies and the associated processing of
+		information, including the specific processing activities and providers named in the consent
+		management procedure. Users also have the option to manage and withdraw their consents. Consent
+		declarations are stored in order to avoid repeated requests and to be able to demonstrate
+		consent in accordance with legal requirements. Storage takes place server-side and/or in a
+		cookie (so-called opt-in cookie) or by means of comparable technologies, in order to be able to
+		attribute consent to a specific user or their device. Unless specific information about the
+		providers of consent management services is available, the following general notices apply: The
+		duration of consent storage is up to two years. A pseudonymous user identifier is created and
+		stored together with the time of consent, the details of the scope of consent (e.g. relevant
+		categories of cookies and/or service providers), and information about the browser, system, and
+		device used;
+		<span class=""><strong>Legal bases:</strong> Consent (Art. 6(1)(a) GDPR).</span>
 	</li>
 </ul>
-<h2 id="m367">Registrierung, Anmeldung und Nutzerkonto</h2>
+<h2 id="m367">Registration, Login, and User Account</h2>
 <p>
-	Nutzer können ein Nutzerkonto anlegen. Im Rahmen der Registrierung werden den Nutzern die
-	erforderlichen Pflichtangaben mitgeteilt und zu Zwecken der Bereitstellung des Nutzerkontos auf
-	Grundlage vertraglicher Pflichterfüllung verarbeitet. Zu den verarbeiteten Daten gehören
-	insbesondere die Login-Informationen (Nutzername, Passwort sowie eine E-Mail-Adresse).
+	Users may create a user account. During registration, users are informed of the required mandatory
+	details, which are processed for the purpose of providing the user account on the basis of
+	contractual obligation. The data processed includes in particular login information (username,
+	password, and an email address).
 </p>
 <p>
-	Im Rahmen der Inanspruchnahme unserer Registrierungs- und Anmeldefunktionen sowie der Nutzung des
-	Nutzerkontos speichern wir die IP-Adresse und den Zeitpunkt der jeweiligen Nutzerhandlung. Die
-	Speicherung erfolgt auf Grundlage unserer berechtigten Interessen als auch jener der Nutzer an
-	einem Schutz vor Missbrauch und sonstiger unbefugter Nutzung. Eine Weitergabe dieser Daten an
-	Dritte erfolgt grundsätzlich nicht, es sei denn, sie ist zur Verfolgung unserer Ansprüche
-	erforderlich oder es besteht eine gesetzliche Verpflichtung hierzu.
+	In the context of the use of our registration and login functions and the use of the user account,
+	we store the IP address and the time of the respective user action. Storage is carried out on the
+	basis of our legitimate interests as well as those of users in protection against misuse and other
+	unauthorised use. As a general rule, this data is not passed on to third parties unless it is
+	required to pursue our claims or there is a legal obligation to do so.
 </p>
 <p>
-	Die Nutzer können über Vorgänge, die für deren Nutzerkonto relevant sind, wie z.&nbsp;B.
-	technische Änderungen, per E-Mail informiert werden.
+	Users may be informed by email about events relevant to their user account, such as technical
+	changes.
 </p>
 <ul class="m-elements">
 	<li>
-		<strong>Verarbeitete Datenarten:</strong> Bestandsdaten (z.&nbsp;B. der vollständige Name, Wohnadresse,
-		Kontaktinformationen, Kundennummer, etc.); Kontaktdaten (z.&nbsp;B. Post- und E-Mail-Adressen oder
-		Telefonnummern); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie
-		betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung); Nutzungsdaten
-		(z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen
-		und Betriebssysteme, Interaktionen mit Inhalten und Funktionen). Protokolldaten (z.&nbsp;B. Logfiles
-		betreffend Logins oder den Abruf von Daten oder Zugriffszeiten.).
+		<strong>Types of data processed:</strong> Inventory data (e.g. full name, residential address, contact
+		information, customer number, etc.); contact data (e.g. postal and email addresses or telephone numbers);
+		content data (e.g. text or image messages and posts and information relating to them, such as details
+		of authorship or time of creation); usage data (e.g. pages visited and time spent, click paths, intensity
+		and frequency of use, types of devices and operating systems used, interactions with content and features).
+		Log data (e.g. log files relating to logins or retrieval of data or access times).
 	</li>
 	<li>
-		<strong>Betroffene Personen:</strong> Nutzer (z.&nbsp;B. Webseitenbesucher, Nutzer von Onlinediensten).
+		<strong>Data subjects:</strong> Users (e.g. website visitors, users of online services).
 	</li>
 	<li>
-		<strong>Zwecke der Verarbeitung und berechtigte Interessen:</strong> Erbringung vertraglicher Leistungen
-		und Erfüllung vertraglicher Pflichten; Sicherheitsmaßnahmen; Organisations- und Verwaltungsverfahren.
-		Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+		<strong>Purposes of processing and legitimate interests:</strong> Provision of contractual services
+		and fulfilment of contractual obligations; security measures; organisational and administrative procedures.
+		Provision of our online service and user-friendliness.
 	</li>
 	<li>
-		<strong>Aufbewahrung und Löschung:</strong> Löschung entsprechend Angaben im Abschnitt "Allgemeine
-		Informationen zur Datenspeicherung und Löschung". Löschung nach Kündigung.
+		<strong>Retention and deletion:</strong> Deletion in accordance with the information in the section
+		"General Information on Data Storage and Deletion". Deletion upon cancellation.
 	</li>
 	<li class="">
-		<strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S.
-		1 lit. b) DSGVO). Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+		<strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+		GDPR). Legitimate interests (Art. 6(1)(f) GDPR).
 	</li>
 </ul>
-<p><strong>Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:</strong></p>
+<p><strong>Further information on processing activities, procedures, and services:</strong></p>
 <ul class="m-elements">
 	<li>
-		<strong>Registrierung mit Pseudonymen: </strong>Nutzer dürfen statt Klarnamen Pseudonyme als
-		Nutzernamen verwenden;
+		<strong>Registration with pseudonyms: </strong>Users may use pseudonyms as usernames instead of
+		their real names;
 		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
-			1 S. 1 lit. b) DSGVO).</span
+			><strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+			GDPR).</span
 		>
 	</li>
 	<li>
-		<strong>Einstellung der Sichtbarkeit von Profilen: </strong>Die Nutzer können mittels
-		Einstellungen bestimmen, in welchem Umfang ihre Profile für die Öffentlichkeit oder nur für
-		bestimmte Personengruppen sichtbar, bzw. zugänglich sind;
+		<strong>Setting profile visibility: </strong>Users may use settings to determine the extent to
+		which their profiles are visible to the public or accessible only to certain groups of people;
 		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
-			1 S. 1 lit. b) DSGVO).</span
+			><strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+			GDPR).</span
 		>
 	</li>
 	<li>
-		<strong>Zwei-Faktor-Authentifizierung: </strong>Die Zwei-Faktor-Authentifizierung bietet eine
-		zusätzliche Sicherheitsebene für Ihr Benutzerkonto und stellt sicher, dass nur Sie auf Ihr Konto
-		zugreifen können, auch, wenn jemand anderes Ihr Passwort kennt. Zu diesem Zweck müssen Sie
-		zusätzlich zu Ihrem Passwort eine weitere Authentifizierungsmaßnahme durchführen (z.&nbsp;B.
-		einen an ein mobiles Gerät gesandten Code eingeben). Wir werden Sie über das von uns eingesetzte
-		Verfahren informieren;
+		<strong>Two-factor authentication: </strong>Two-factor authentication provides an additional
+		layer of security for your user account and ensures that only you can access your account, even
+		if someone else knows your password. For this purpose, in addition to your password, you must
+		complete a further authentication step (e.g. enter a code sent to a mobile device). We will
+		inform you about the procedure we use;
 		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
-			1 S. 1 lit. b) DSGVO).</span
+			><strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+			GDPR).</span
 		>
 	</li>
 	<li>
-		<strong>Löschung von Daten nach Kündigung: </strong>Wenn Nutzer ihr Nutzerkonto gekündigt haben,
-		werden deren Daten im Hinblick auf das Nutzerkonto, vorbehaltlich einer gesetzlichen Erlaubnis,
-		Pflicht oder Einwilligung der Nutzer, gelöscht;
+		<strong>Deletion of data upon cancellation: </strong>When users have cancelled their user
+		account, their data relating to the user account will be deleted, subject to a legal permission,
+		obligation, or consent of the users;
 		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
-			1 S. 1 lit. b) DSGVO).</span
+			><strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+			GDPR).</span
 		>
 	</li>
 	<li>
-		<strong>Keine Aufbewahrungspflicht für Daten: </strong>Es obliegt den Nutzern, ihre Daten bei
-		erfolgter Kündigung vor dem Vertragsende zu sichern. Wir sind berechtigt, sämtliche während der
-		Vertragsdauer gespeicherte Daten des Nutzers unwiederbringlich zu löschen;
+		<strong>No obligation to retain data: </strong>It is the responsibility of users to back up
+		their data before the end of the contract upon cancellation. We are entitled to irreversibly
+		delete all data stored by the user during the contract period;
 		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
-			1 S. 1 lit. b) DSGVO).</span
+			><strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+			GDPR).</span
 		>
 	</li>
 </ul>
-<h2 id="m451">Single-Sign-On-Anmeldung</h2>
+<h2 id="m451">Single Sign-On Authentication</h2>
 <p>
-	Als "Single-Sign-On" oder "Single-Sign-On-Anmeldung bzw. "-Authentifizierung" werden Verfahren
-	bezeichnet, die es Nutzern erlauben, sich mit Hilfe eines Nutzerkontos bei einem Anbieter von
-	Single-Sign-On-Verfahren (z.&nbsp;B. einem sozialen Netzwerk), auch bei unserem Onlineangebot,
-	anzumelden. Voraussetzung der Single-Sign-On-Authentifizierung ist, dass die Nutzer bei dem
-	jeweiligen Single-Sign-On-Anbieter registriert sind und die erforderlichen Zugangsdaten in dem
-	dafür vorgesehenen Onlineformular eingeben, bzw. schon bei dem Single-Sign-On-Anbieter angemeldet
-	sind und die Single-Sign-On-Anmeldung via Schaltfläche bestätigen.
+	"Single sign-on" or "single sign-on login/authentication" refers to procedures that allow users to
+	log in to our online service using a user account held with a single sign-on provider (e.g. a
+	social network). The prerequisite for single sign-on authentication is that users are registered
+	with the relevant single sign-on provider and enter the required credentials in the designated
+	online form, or are already logged in with the single sign-on provider and confirm the single
+	sign-on login via a button.
 </p>
 <p>
-	Die Authentifizierung erfolgt direkt bei dem jeweiligen Single-Sign-On-Anbieter. Im Rahmen einer
-	solchen Authentifizierung erhalten wir eine Nutzer-ID mit der Information, dass der Nutzer unter
-	dieser Nutzer-ID beim jeweiligen Single-Sign-On-Anbieter eingeloggt ist und eine für uns für
-	andere Zwecke nicht weiter nutzbare ID (sog "User Handle"). Ob uns zusätzliche Daten übermittelt
-	werden, hängt allein von dem genutzten Single-Sign-On-Verfahren ab, von den gewählten
-	Datenfreigaben im Rahmen der Authentifizierung und zudem davon, welche Daten Nutzer in den
-	Privatsphäre- oder sonstigen Einstellungen des Nutzerkontos beim Single-Sign-On-Anbieter
-	freigegeben haben. Es können je nach Single-Sign-On-Anbieter und der Wahl der Nutzer verschiedene
-	Daten sein, in der Regel sind es die E-Mail-Adresse und der Benutzername. Das im Rahmen des
-	Single-Sign-On-Verfahrens eingegebene Passwort bei dem Single-Sign-On-Anbieter ist für uns weder
-	einsehbar, noch wird es von uns gespeichert.
+	Authentication takes place directly with the respective single sign-on provider. In the context of
+	such authentication, we receive a user ID with the information that the user is logged in under
+	that user ID with the respective single sign-on provider, along with an ID that cannot be used by
+	us for other purposes (a so-called "user handle"). Whether additional data is transmitted to us
+	depends solely on the single sign-on procedure used, the data sharing selections made during
+	authentication, and the data that users have shared in the privacy or other settings of their user
+	account with the single sign-on provider. Depending on the single sign-on provider and the user's
+	choices, various data may be involved; typically this includes the email address and username. The
+	password entered with the single sign-on provider as part of the single sign-on process is neither
+	visible to us nor stored by us.
 </p>
 <p>
-	Die Nutzer werden gebeten, zu beachten, dass deren bei uns gespeicherte Angaben automatisch mit
-	ihrem Nutzerkonto beim Single-Sign-On-Anbieter abgeglichen werden können, dies jedoch nicht immer
-	möglich ist oder tatsächlich erfolgt. Ändern sich z.&nbsp;B. die E-Mail-Adressen der Nutzer,
-	müssen sie diese manuell in ihrem Nutzerkonto bei uns ändern.
+	Users are asked to note that data stored with us may be automatically synchronised with their user
+	account at the single sign-on provider, although this is not always possible or actually carried
+	out. If, for example, users' email addresses change, they must update these manually in their user
+	account with us.
 </p>
 <p>
-	Die Single-Sign-On-Anmeldung können wir, sofern mit den Nutzern vereinbart, im Rahmen der oder vor
-	der Vertragserfüllung einsetzen, soweit die Nutzer darum gebeten wurden, im Rahmen einer
-	Einwilligung verarbeiten und setzen sie ansonsten auf Grundlage der berechtigten Interessen
-	unsererseits und der Interessen der Nutzer an einem effektiven und sicheren Anmeldesystem ein.
+	We may use single sign-on login, where agreed with users, in connection with or prior to contract
+	performance where users have been asked to do so, process it on the basis of consent, or otherwise
+	use it on the basis of our legitimate interests and the interests of users in an effective and
+	secure login system.
 </p>
 <p>
-	Sollten Nutzer sich einmal entscheiden, die Verknüpfung ihres Nutzerkontos beim
-	Single-Sign-On-Anbieter nicht mehr für das Single-Sign-On-Verfahren nutzen zu wollen, müssen sie
-	diese Verbindung innerhalb ihres Nutzerkontos beim Single-Sign-On-Anbieter aufheben. Möchten
-	Nutzer deren Daten bei uns löschen, müssen sie ihre Registrierung bei uns kündigen.
+	Should users decide at some point that they no longer wish to use the link between their user
+	account at the single sign-on provider and the single sign-on procedure, they must remove this
+	connection within their user account at the single sign-on provider. If users wish to have their
+	data deleted from us, they must cancel their registration with us.
 </p>
 <ul class="m-elements">
 	<li>
-		<strong>Verarbeitete Datenarten:</strong> Bestandsdaten (z.&nbsp;B. der vollständige Name, Wohnadresse,
-		Kontaktinformationen, Kundennummer, etc.); Kontaktdaten (z.&nbsp;B. Post- und E-Mail-Adressen oder
-		Telefonnummern); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Klickpfade, Nutzungsintensität
-		und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen).
-		Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern,
-		beteiligte Personen).
+		<strong>Types of data processed:</strong> Inventory data (e.g. full name, residential address, contact
+		information, customer number, etc.); contact data (e.g. postal and email addresses or telephone numbers);
+		usage data (e.g. pages visited and time spent, click paths, intensity and frequency of use, types
+		of devices and operating systems used, interactions with content and features). Meta-, communication,
+		and procedural data (e.g. IP addresses, timestamps, identification numbers, persons involved).
 	</li>
 	<li>
-		<strong>Betroffene Personen:</strong> Nutzer (z.&nbsp;B. Webseitenbesucher, Nutzer von Onlinediensten).
+		<strong>Data subjects:</strong> Users (e.g. website visitors, users of online services).
 	</li>
 	<li>
-		<strong>Zwecke der Verarbeitung und berechtigte Interessen:</strong> Erbringung vertraglicher Leistungen
-		und Erfüllung vertraglicher Pflichten; Sicherheitsmaßnahmen; Anmeldeverfahren. Bereitstellung unseres
-		Onlineangebotes und Nutzerfreundlichkeit.
+		<strong>Purposes of processing and legitimate interests:</strong> Provision of contractual services
+		and fulfilment of contractual obligations; security measures; registration procedures. Provision of
+		our online service and user-friendliness.
 	</li>
 	<li>
-		<strong>Aufbewahrung und Löschung:</strong> Löschung entsprechend Angaben im Abschnitt "Allgemeine
-		Informationen zur Datenspeicherung und Löschung". Löschung nach Kündigung.
+		<strong>Retention and deletion:</strong> Deletion in accordance with the information in the section
+		"General Information on Data Storage and Deletion". Deletion upon cancellation.
 	</li>
 	<li class="">
-		<strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S.
-		1 lit. b) DSGVO). Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+		<strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+		GDPR). Legitimate interests (Art. 6(1)(f) GDPR).
 	</li>
 </ul>
-<p><strong>Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:</strong></p>
+<p><strong>Further information on processing activities, procedures, and services:</strong></p>
 <ul class="m-elements">
 	<li>
-		<strong>Google Single-Sign-On: </strong>Authentifizierungsdienste für Nutzeranmeldungen,
-		Bereitstellung von Single Sign-On-Funktionen, Verwaltung von Identitätsinformationen und
-		Anwendungsintegrationen; <strong>Dienstanbieter:</strong> Google Ireland Limited, Gordon House,
-		Barrow Street, Dublin 4, Irland;
+		<strong>Google Single Sign-On: </strong>Authentication services for user logins, provision of
+		single sign-on functions, management of identity information, and application integrations;
+		<strong>Service provider:</strong> Google Ireland Limited, Gordon House, Barrow Street, Dublin
+		4, Ireland;
 		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO);
+			><strong>Legal bases:</strong> Legitimate interests (Art. 6(1)(f) GDPR);
 		</span><strong>Website:</strong>
 		<a href="https://www.google.de" target="_blank">https://www.google.de</a>;
-		<strong>Datenschutzerklärung:</strong>
+		<strong>Privacy policy:</strong>
 		<a href="https://policies.google.com/privacy" target="_blank"
 			>https://policies.google.com/privacy</a
-		>; <strong>Grundlage Drittlandtransfers:</strong> Data Privacy Framework (DPF).
-		<strong>Widerspruchsmöglichkeit (Opt-Out):</strong>
-		Einstellungen für die Darstellung von Werbeeinblendungen:
+		>; <strong>Basis for third-country transfers:</strong> Data Privacy Framework (DPF).
+		<strong>Right to object (opt-out):</strong>
+		Settings for the display of advertising:
 		<a href="https://myadcenter.google.com/" target="_blank">https://myadcenter.google.com/</a>.
 	</li>
 </ul>
-<h2 id="m182">Kontakt- und Anfrageverwaltung</h2>
+<h2 id="m182">Contact and Inquiry Management</h2>
 <p>
-	Bei der Kontaktaufnahme mit uns (z.&nbsp;B. per Post, Kontaktformular, E-Mail, Telefon oder via
-	soziale Medien) sowie im Rahmen bestehender Nutzer- und Geschäftsbeziehungen werden die Angaben
-	der anfragenden Personen verarbeitet, soweit dies zur Beantwortung der Kontaktanfragen und
-	etwaiger angefragter Maßnahmen erforderlich ist.
+	When contacting us (e.g. by post, contact form, email, telephone, or via social media) and in the
+	context of existing user and business relationships, the information provided by the requesting
+	persons is processed to the extent necessary to respond to the contact inquiries and any requested
+	actions.
 </p>
 <ul class="m-elements">
 	<li>
-		<strong>Verarbeitete Datenarten:</strong> Kontaktdaten (z.&nbsp;B. Post- und E-Mail-Adressen oder
-		Telefonnummern); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie
-		betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung). Meta-,
-		Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte
-		Personen).
+		<strong>Types of data processed:</strong> Contact data (e.g. postal and email addresses or telephone
+		numbers); content data (e.g. text or image messages and posts and information relating to them, such
+		as details of authorship or time of creation). Meta-, communication, and procedural data (e.g. IP
+		addresses, timestamps, identification numbers, persons involved).
 	</li>
-	<li><strong>Betroffene Personen:</strong> Kommunikationspartner.</li>
+	<li><strong>Data subjects:</strong> Communication partners.</li>
 	<li>
-		<strong>Zwecke der Verarbeitung und berechtigte Interessen:</strong> Kommunikation; Organisations-
-		und Verwaltungsverfahren; Feedback (z.&nbsp;B. Sammeln von Feedback via Online-Formular). Bereitstellung
-		unseres Onlineangebotes und Nutzerfreundlichkeit.
+		<strong>Purposes of processing and legitimate interests:</strong> Communication; organisational and
+		administrative procedures; feedback (e.g. collecting feedback via online form). Provision of our online
+		service and user-friendliness.
 	</li>
 	<li>
-		<strong>Aufbewahrung und Löschung:</strong> Löschung entsprechend Angaben im Abschnitt "Allgemeine
-		Informationen zur Datenspeicherung und Löschung".
+		<strong>Retention and deletion:</strong> Deletion in accordance with the information in the section
+		"General Information on Data Storage and Deletion".
 	</li>
 	<li class="">
-		<strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO). Vertragserfüllung
-		und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
+		<strong>Legal bases:</strong> Legitimate interests (Art. 6(1)(f) GDPR). Performance of a contract
+		and pre-contractual inquiries (Art. 6(1)(b) GDPR).
 	</li>
 </ul>
-<p><strong>Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:</strong></p>
+<p><strong>Further information on processing activities, procedures, and services:</strong></p>
 <ul class="m-elements">
 	<li>
-		<strong>Kontaktformular: </strong>Bei Kontaktaufnahme über unser Kontaktformular, per E-Mail
-		oder anderen Kommunikationswegen, verarbeiten wir die uns übermittelten personenbezogenen Daten
-		zur Beantwortung und Bearbeitung des jeweiligen Anliegens. Dies umfasst in der Regel Angaben wie
-		Name, Kontaktinformationen und gegebenenfalls weitere Informationen, die uns mitgeteilt werden
-		und zur angemessenen Bearbeitung erforderlich sind. Wir nutzen diese Daten ausschließlich für
-		den angegebenen Zweck der Kontaktaufnahme und Kommunikation;
+		<strong>Contact form: </strong>When contacting us via our contact form, by email, or through
+		other communication channels, we process the personal data transmitted to us in order to respond
+		to and handle the respective inquiry. This typically includes details such as name, contact
+		information, and where applicable further information provided to us and required for
+		appropriate handling. We use this data exclusively for the stated purpose of contact and
+		communication;
 		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
-			1 S. 1 lit. b) DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).</span
+			><strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+			GDPR), Legitimate interests (Art. 6(1)(f) GDPR).</span
 		>
 	</li>
 </ul>
-<h2 id="m15">Änderung und Aktualisierung</h2>
+<h2 id="m15">Changes and Updates</h2>
 <p>
-	Wir bitten Sie, sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir
-	passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten
-	Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen
-	eine Mitwirkungshandlung Ihrerseits (z.&nbsp;B. Einwilligung) oder eine sonstige individuelle
-	Benachrichtigung erforderlich wird.
+	We ask you to regularly review the content of our privacy policy. We update the privacy policy as
+	soon as changes to the data processing activities we carry out make this necessary. We will inform
+	you as soon as any changes require action on your part (e.g. consent) or any other individual
+	notification.
 </p>
 <p>
-	Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von Unternehmen und
-	Organisationen angeben, bitten wir zu beachten, dass die Adressen sich über die Zeit ändern können
-	und bitten die Angaben vor Kontaktaufnahme zu prüfen.
+	Where we provide addresses and contact information of companies and organisations in this privacy
+	policy, please note that these may change over time and we ask you to verify the details before
+	making contact.
 </p>
 
 <p class="seal">
