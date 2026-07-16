@@ -11,7 +11,7 @@ COPY . .
 COPY --from=dependencies /app/node_modules ./node_modules
 RUN npm run build
 
-FROM nginx:1.31.2-alpine AS app
+FROM nginx:1.31.3-alpine AS app
 
 COPY docker/nginx.conf /etc/nginx/nginx.conf
 COPY --from=build /app/build /app
