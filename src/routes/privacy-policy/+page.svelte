@@ -226,15 +226,15 @@
 </p>
 <ul>
 	<li>
-		<strong
-			>Right to object: You have the right, on grounds relating to your particular situation, to
+		<strong>
+			Right to object: You have the right, on grounds relating to your particular situation, to
 			object at any time to the processing of personal data concerning you which is carried out on
 			the basis of Art. 6(1)(e) or (f) GDPR; this also applies to profiling based on those
 			provisions. Where personal data concerning you is processed for direct marketing purposes, you
 			have the right to object at any time to the processing of personal data concerning you for
 			such marketing; this also applies to profiling insofar as it is related to such direct
-			marketing.</strong
-		>
+			marketing.
+		</strong>
 	</li>
 	<li>
 		<strong>Right to withdraw consent:</strong> You have the right to withdraw consent at any time.
@@ -315,8 +315,8 @@
 		requesting provider. Server log files may be used for security purposes, e.g. to avoid server
 		overload (particularly in the event of abusive attacks, so-called DDoS attacks), and to ensure
 		server load and stability;
-		<span class=""
-			><strong>Legal bases:</strong> Legitimate interests (Art. 6(1)(f) GDPR).
+		<span class="">
+			<strong>Legal bases:</strong> Legitimate interests (Art. 6(1)(f) GDPR).
 		</span><strong>Deletion of data:</strong> Log file information is stored for a maximum period of 30
 		days and then deleted or anonymised. Data whose further retention is required for evidentiary purposes
 		is exempt from deletion until the final resolution of the respective incident.
@@ -447,18 +447,18 @@
 	<li>
 		<strong>Registration with pseudonyms: </strong>Users may use pseudonyms as usernames instead of
 		their real names;
-		<span class=""
-			><strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
-			GDPR).</span
-		>
+		<span class="">
+			<strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+			GDPR).
+		</span>
 	</li>
 	<li>
 		<strong>Setting profile visibility: </strong>Users may use settings to determine the extent to
 		which their profiles are visible to the public or accessible only to certain groups of people;
-		<span class=""
-			><strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
-			GDPR).</span
-		>
+		<span class="">
+			<strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+			GDPR).
+		</span>
 	</li>
 	<li>
 		<strong>Two-factor authentication: </strong>Two-factor authentication provides an additional
@@ -466,28 +466,28 @@
 		if someone else knows your password. For this purpose, in addition to your password, you must
 		complete a further authentication step (e.g. enter a code sent to a mobile device). We will
 		inform you about the procedure we use;
-		<span class=""
-			><strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
-			GDPR).</span
-		>
+		<span class="">
+			<strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+			GDPR).
+		</span>
 	</li>
 	<li>
 		<strong>Deletion of data upon cancellation: </strong>When users have cancelled their user
 		account, their data relating to the user account will be deleted, subject to a legal permission,
 		obligation, or consent of the users;
-		<span class=""
-			><strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
-			GDPR).</span
-		>
+		<span class="">
+			<strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+			GDPR).
+		</span>
 	</li>
 	<li>
 		<strong>No obligation to retain data: </strong>It is the responsibility of users to back up
 		their data before the end of the contract upon cancellation. We are entitled to irreversibly
 		delete all data stored by the user during the contract period;
-		<span class=""
-			><strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
-			GDPR).</span
-		>
+		<span class="">
+			<strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+			GDPR).
+		</span>
 	</li>
 </ul>
 <h2 id="m451">Single Sign-On Authentication</h2>
@@ -561,14 +561,14 @@
 		single sign-on functions, management of identity information, and application integrations;
 		<strong>Service provider:</strong> Google Ireland Limited, Gordon House, Barrow Street, Dublin
 		4, Ireland;
-		<span class=""
-			><strong>Legal bases:</strong> Legitimate interests (Art. 6(1)(f) GDPR);
+		<span class="">
+			<strong>Legal bases:</strong> Legitimate interests (Art. 6(1)(f) GDPR);
 		</span><strong>Website:</strong>
 		<a href="https://www.google.de" target="_blank">https://www.google.de</a>;
 		<strong>Privacy policy:</strong>
-		<a href="https://policies.google.com/privacy" target="_blank"
-			>https://policies.google.com/privacy</a
-		>; <strong>Basis for third-country transfers:</strong> Data Privacy Framework (DPF).
+		<a href="https://policies.google.com/privacy" target="_blank">
+			https://policies.google.com/privacy
+		</a>; <strong>Basis for third-country transfers:</strong> Data Privacy Framework (DPF).
 		<strong>Right to object (opt-out):</strong>
 		Settings for the display of advertising:
 		<a href="https://myadcenter.google.com/" target="_blank">https://myadcenter.google.com/</a>.
@@ -612,10 +612,10 @@
 		information, and where applicable further information provided to us and required for
 		appropriate handling. We use this data exclusively for the stated purpose of contact and
 		communication;
-		<span class=""
-			><strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
-			GDPR), Legitimate interests (Art. 6(1)(f) GDPR).</span
-		>
+		<span class="">
+			<strong>Legal bases:</strong> Performance of a contract and pre-contractual inquiries (Art. 6(1)(b)
+			GDPR), Legitimate interests (Art. 6(1)(f) GDPR).
+		</span>
 	</li>
 </ul>
 <h2 id="m15">Changes and Updates</h2>
@@ -637,6 +637,7 @@
 		title="Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken."
 		target="_blank"
 		rel="noopener noreferrer nofollow"
-		>Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke</a
 	>
+		Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke
+	</a>
 </p>

@@ -46,6 +46,7 @@
 		title="Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken."
 		target="_blank"
 		rel="noopener noreferrer nofollow"
-		>Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke</a
 	>
+		Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke
+	</a>
 </p>

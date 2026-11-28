@@ -85,10 +85,10 @@
 		Zweck oder mehrere bestimmte Zwecke gegeben.
 	</li>
 	<li>
-		<strong
-			>Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO)</strong
-		> - Die Verarbeitung ist für die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person
-		ist, oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, die auf Anfrage der betroffenen
+		<strong>
+			Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO)
+		</strong> - Die Verarbeitung ist für die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene
+		Person ist, oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, die auf Anfrage der betroffenen
 		Person erfolgen.
 	</li>
 	<li>
@@ -238,16 +238,16 @@
 </p>
 <ul>
 	<li>
-		<strong
-			>Widerspruchsrecht: Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation
+		<strong>
+			Widerspruchsrecht: Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation
 			ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die
 			aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen; dies gilt auch
 			für ein auf diese Bestimmungen gestütztes Profiling. Werden die Sie betreffenden
 			personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, haben Sie das Recht,
 			jederzeit Widerspruch gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten zum
 			Zwecke derartiger Werbung einzulegen; dies gilt auch für das Profiling, soweit es mit solcher
-			Direktwerbung in Verbindung steht.</strong
-		>
+			Direktwerbung in Verbindung steht.
+		</strong>
 	</li>
 	<li>
 		<strong>Widerrufsrecht bei Einwilligungen:</strong> Sie haben das Recht, erteilte Einwilligungen jederzeit
@@ -322,9 +322,9 @@
 		Bereitstellung unseres Onlineangebotes nutzen wir Speicherplatz, Rechenkapazität und Software,
 		die wir von einem entsprechenden Serveranbieter (auch "Webhoster" genannt) mieten oder
 		anderweitig beziehen;
-		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).</span
-		>
+		<span class="">
+			<strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+		</span>
 	</li>
 	<li>
 		<strong>Erhebung von Zugriffsdaten und Logfiles: </strong>Der Zugriff auf unser Onlineangebot
@@ -336,8 +336,8 @@
 		eingesetzt werden, z.&nbsp;B. um eine Überlastung der Server zu vermeiden (insbesondere im Fall
 		von missbräuchlichen Angriffen, sogenannten DDoS-Attacken), und zum anderen, um die Auslastung
 		der Server und ihre Stabilität sicherzustellen;
-		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+		<span class="">
+			<strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 		</span><strong>Löschung von Daten:</strong> Logfile-Informationen werden für die Dauer von maximal
 		30 Tagen gespeichert und danach gelöscht oder anonymisiert. Daten, deren weitere Aufbewahrung zu Beweiszwecken
 		erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
@@ -427,9 +427,9 @@
 		der Einwilligung, den Angaben zum Umfang der Einwilligung (z.&nbsp;B. betreffende Kategorien von
 		Cookies und/oder Diensteanbieter) sowie Informationen über den Browser, das System und das
 		verwendete Endgerät gespeichert wird;
-		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO).</span
-		>
+		<span class="">
+			<strong>Rechtsgrundlagen:</strong> Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO).
+		</span>
 	</li>
 </ul>
 <h2 id="m367">Registrierung, Anmeldung und Nutzerkonto</h2>
@@ -483,19 +483,19 @@
 	<li>
 		<strong>Registrierung mit Pseudonymen: </strong>Nutzer dürfen statt Klarnamen Pseudonyme als
 		Nutzernamen verwenden;
-		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
-			1 S. 1 lit. b) DSGVO).</span
-		>
+		<span class="">
+			<strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1
+			S. 1 lit. b) DSGVO).
+		</span>
 	</li>
 	<li>
 		<strong>Einstellung der Sichtbarkeit von Profilen: </strong>Die Nutzer können mittels
 		Einstellungen bestimmen, in welchem Umfang ihre Profile für die Öffentlichkeit oder nur für
 		bestimmte Personengruppen sichtbar, bzw. zugänglich sind;
-		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
-			1 S. 1 lit. b) DSGVO).</span
-		>
+		<span class="">
+			<strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1
+			S. 1 lit. b) DSGVO).
+		</span>
 	</li>
 	<li>
 		<strong>Zwei-Faktor-Authentifizierung: </strong>Die Zwei-Faktor-Authentifizierung bietet eine
@@ -504,28 +504,28 @@
 		zusätzlich zu Ihrem Passwort eine weitere Authentifizierungsmaßnahme durchführen (z.&nbsp;B.
 		einen an ein mobiles Gerät gesandten Code eingeben). Wir werden Sie über das von uns eingesetzte
 		Verfahren informieren;
-		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
-			1 S. 1 lit. b) DSGVO).</span
-		>
+		<span class="">
+			<strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1
+			S. 1 lit. b) DSGVO).
+		</span>
 	</li>
 	<li>
 		<strong>Löschung von Daten nach Kündigung: </strong>Wenn Nutzer ihr Nutzerkonto gekündigt haben,
 		werden deren Daten im Hinblick auf das Nutzerkonto, vorbehaltlich einer gesetzlichen Erlaubnis,
 		Pflicht oder Einwilligung der Nutzer, gelöscht;
-		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
-			1 S. 1 lit. b) DSGVO).</span
-		>
+		<span class="">
+			<strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1
+			S. 1 lit. b) DSGVO).
+		</span>
 	</li>
 	<li>
 		<strong>Keine Aufbewahrungspflicht für Daten: </strong>Es obliegt den Nutzern, ihre Daten bei
 		erfolgter Kündigung vor dem Vertragsende zu sichern. Wir sind berechtigt, sämtliche während der
 		Vertragsdauer gespeicherte Daten des Nutzers unwiederbringlich zu löschen;
-		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
-			1 S. 1 lit. b) DSGVO).</span
-		>
+		<span class="">
+			<strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1
+			S. 1 lit. b) DSGVO).
+		</span>
 	</li>
 </ul>
 <h2 id="m451">Single-Sign-On-Anmeldung</h2>
@@ -602,14 +602,14 @@
 		Bereitstellung von Single Sign-On-Funktionen, Verwaltung von Identitätsinformationen und
 		Anwendungsintegrationen; <strong>Dienstanbieter:</strong> Google Ireland Limited, Gordon House,
 		Barrow Street, Dublin 4, Irland;
-		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO);
+		<span class="">
+			<strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO);
 		</span><strong>Website:</strong>
 		<a href="https://www.google.de" target="_blank">https://www.google.de</a>;
 		<strong>Datenschutzerklärung:</strong>
-		<a href="https://policies.google.com/privacy" target="_blank"
-			>https://policies.google.com/privacy</a
-		>; <strong>Grundlage Drittlandtransfers:</strong> Data Privacy Framework (DPF).
+		<a href="https://policies.google.com/privacy" target="_blank">
+			https://policies.google.com/privacy
+		</a>; <strong>Grundlage Drittlandtransfers:</strong> Data Privacy Framework (DPF).
 		<strong>Widerspruchsmöglichkeit (Opt-Out):</strong>
 		Einstellungen für die Darstellung von Werbeeinblendungen:
 		<a href="https://myadcenter.google.com/" target="_blank">https://myadcenter.google.com/</a>.
@@ -654,10 +654,10 @@
 		Name, Kontaktinformationen und gegebenenfalls weitere Informationen, die uns mitgeteilt werden
 		und zur angemessenen Bearbeitung erforderlich sind. Wir nutzen diese Daten ausschließlich für
 		den angegebenen Zweck der Kontaktaufnahme und Kommunikation;
-		<span class=""
-			><strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs.
-			1 S. 1 lit. b) DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).</span
-		>
+		<span class="">
+			<strong>Rechtsgrundlagen:</strong> Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1
+			S. 1 lit. b) DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+		</span>
 	</li>
 </ul>
 <h2 id="m15">Änderung und Aktualisierung</h2>
@@ -680,6 +680,7 @@
 		title="Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken."
 		target="_blank"
 		rel="noopener noreferrer nofollow"
-		>Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke</a
 	>
+		Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke
+	</a>
 </p>
